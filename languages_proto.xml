@@ -1,0 +1,15 @@
+<language_proto>
+	<key name="LANGUAGE_EN">en</key>
+	<key name="LANGUAGE_DE">de</key>
+	<key name="LANGUAGE_RO">ro</key>
+	<key name="LANGUAGE_PL">pl</key>
+	<key name="LANGUAGE_TR">tr</key>
+	<key name="LANGUAGE_CZ">cz</key>
+	<key name="LANGUAGE_ES">es</key>
+	<key name="LANGUAGE_FR">fr</key>
+	<key name="LANGUAGE_GR">gr</key>
+	<key name="LANGUAGE_HU">hu</key>
+	<key name="LANGUAGE_IT">it</key>
+	<key name="LANGUAGE_PT">pt</key>
+	<key name="LANGUAGE_DN">dn</key>
+</language_proto>

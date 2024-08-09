@@ -1,0 +1,28 @@
+<Missions>
+	<Mission id="50307" name="" time="1800">
+		<Target id="591" count="5">
+			<Reward vnum="85004" count="1"/>
+			<Reward vnum="9600" count="1"/>
+			<Reward vnum="100300" count="1"/>
+			<Reward vnum="39008" count="1"/>
+		</Target>
+		<Target id="1093" count="5">
+			<Reward vnum="85001" count="1"/>
+			<Reward vnum="70505" count="1"/>
+			<Reward vnum="55003" count="1"/>
+			<Reward vnum="53024" count="1"/>
+			<Reward vnum="50825" count="1"/>
+		</Target>
+	</Mission>
+	<Mission id="50308" name="" time="3600">
+		<Target id="3960" count="2">
+			<Reward vnum="85004" count="1"/>
+		</Target>
+		<Target id="6191" count="4">
+			<Reward vnum="85004" count="1"/>
+		</Target>
+		<Target id="6192" count="7">
+			<Reward vnum="50821" count="1"/>
+		</Target>
+	</Mission>
+</Missions>

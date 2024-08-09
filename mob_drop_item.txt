@@ -1,0 +1,1384 @@
+Group	Metin_of_Sorrow
+{
+	Mob	8001
+	Type	drop
+	1	170201	1	100 -- Piece of Green Stone
+	2	170301	1	100 -- Piece of Copper
+	3	71151	2	100 -- Green Magic
+	4	25041	1	20 -- Scroll Hephaestus
+	5	170101	1	10 -- Education Chest
+	6	170001	1	0 -- Warrior Chest Book
+	7	170002	1	0 -- Ninja Chest Book
+	8	170003	1	0 -- Sura Chest Book
+	9	170004	1	0 -- Shaman Chest Book
+	10	26	1	3 -- Long Sword+6
+	11	3016	1	3 -- Spear+6
+	12	2016	1	3 -- Long Bow+6
+	13	4006	1	3 -- Amija+6
+	14	7016	1	3 -- Iron Fan+6
+}
+
+Group	Metin_of_Combat
+{
+	Mob	8002
+	Type	drop
+	1	170201	1	100 -- Piece of Green Stone
+	2	170301	2	100 -- Piece of Copper
+	3	71151	3	100 -- Green Magic
+	4	25041	1	20 -- Scroll Hephaestus
+	5	170101	1	10 -- Education Chest
+	6	170001	1	0 -- Warrior Chest Book
+	7	170002	1	0 -- Ninja Chest Book
+	8	170003	1	0 -- Sura Chest Book
+	9	170004	1	0 -- Shaman Chest Book
+	10	36	1	3 -- Crescent Sword+6
+	11	1016	1	3 -- Cobra Dagger+6
+	12	2026	1	3 -- Composite Bow+6
+	13	3026	1	3 -- Guillotine Blade+6
+	14	7026	1	3 -- Black Tiger Fan+6
+	15	11216	1	3 -- Iron Plate Armour+6
+	16	11416	1	3 -- Ivory Suit+6
+	17	11616	1	3 -- Storm Plate Armour+6
+	18	11816	1	3 -- Turquoise Clothing+6
+}
+
+Group	Metin_of_Battle
+{
+	Mob	8003
+	Type	drop
+	1	170201	1	100 -- Piece of Green Stone
+	2	170301	3	100 -- Piece of Copper
+	3	71151	4	100 -- Green Magic
+	4	25041	1	20 -- Scroll Hephaestus
+	5	170101	1	10 -- Education Chest
+	6	170001	1	0 -- Warrior Chest Book
+	7	170002	1	0 -- Ninja Chest Book
+	8	170003	1	0 -- Sura Chest Book
+	9	170004	1	0 -- Shaman Chest Book
+	10	46	1	3 -- Bamboo Sword+6
+	11	2036	1	3 -- Battle Bow+6
+	12	3036	1	3 -- Spider Spear+6
+	13	4016	1	3 -- Nine Blades+6
+	14	5016	1	3 -- Silver Bell+6
+	15	7036	1	3 -- Crane Wing Fan+6
+	16	11226	1	3 -- Tiger Plate Armour+6
+	17	11426	1	3 -- Crimson Suit+6
+	18	11626	1	3 -- Misfortune Armour+6
+	19	11826	1	3 -- Pink Clothing+6
+}
+
+Group	Metin_of_Greed
+{
+	Mob	8004
+	Type	drop
+	1	170201	1	100 -- Piece of Green Stone
+	2	170301	4	100 -- Piece of Copper
+	3	71151	5	100 -- Green Magic
+	4	25041	1	20 -- Scroll Hephaestus
+	5	170101	1	10 -- Education Chest
+	6	170001	1	0 -- Warrior Chest Book
+	7	170002	1	0 -- Ninja Chest Book
+	8	170003	1	0 -- Sura Chest Book
+	9	170004	1	0 -- Shaman Chest Book
+	10	56	1	3 -- Broad Sword+6
+	11	1026	1	3 -- Scissor Dagger+6
+	12	2046	1	3 -- Horseback Long Bow+6
+	13	3046	1	3 -- Gisarme+6
+	14	5026	1	3 -- Golden Bell+6
+	15	7046	1	3 -- Peacock Fan+6
+	16	11226	1	3 -- Tiger Plate Armour+6
+	17	11426	1	3 -- Crimson Suit+6
+	18	11626	1	3 -- Misfortune Armour+6
+	19	11826	1	3 -- Pink Clothing+6
+}
+
+Group	Metin_of_Black
+{
+	Mob	8005
+	Type	drop
+	1	170201	1	100 -- Piece of Green Stone
+	2	170302	1	100 -- Piece of Silver
+	3	71151	6	100 -- Green Magic
+	4	25041	1	40 -- Scroll Hephaestus
+	5	170101	1	20 -- Education Chest
+	6	170001	1	0 -- Warrior Chest Book
+	7	170002	1	0 -- Ninja Chest Book
+	8	170003	1	0 -- Sura Chest Book
+	9	170004	1	0 -- Shaman Chest Book
+	10	64	1	3 -- Silver Sword+4
+	11	2054	1	3 -- Horseback Battle Bow+4
+	12	3054	1	3 -- War Scythe+4
+	13	4024	1	3 -- Short Knife+4
+	14	5024	1	3 -- Golden Bell+4
+	15	7054	1	3 -- Aquatic Fan+4
+	16	11234	1	3 -- Lion Plate Armour+4
+	17	11434	1	3 -- Red Ant Suit+4
+	18	11634	1	3 -- Ghost Plate Armour+4
+	19	11834	1	3 -- Amorous Clothing+4
+}
+
+Group	Metin_of_Darkness
+{
+	Mob	8006
+	Type	drop
+	1	170201	1	100 -- Piece of Green Stone
+	2	170302	1	100 -- Piece of Silver
+	3	170301	1	100 -- Piece of Copper
+	4	71151	8	100 -- Green Magic
+	5	25041	1	40 -- Scroll Hephaestus
+	6	170101	1	20 -- Education Chest
+	7	170001	1	0 -- Warrior Chest Book
+	8	170002	1	0 -- Ninja Chest Book
+	9	170003	1	0 -- Sura Chest Book
+	10	170004	1	0 -- Shaman Chest Book
+	11	74	1	3 -- Orchid Sword+4
+	12	1034	1	3 -- Lucky Knife+4
+	13	2064	1	3 -- Copper Crafted Bow+4
+	14	3064	1	3 -- Battle Pitchfork+4
+	15	5034	1	3 -- Jade Bell+4
+	16	7064	1	3 -- Stone Fan+4
+	17	11234	1	3 -- Lion Plate Armour+4
+	18	11434	1	3 -- Red Ant Suit+4
+	19	11634	1	3 -- Ghost Plate Armour+4
+	20	11834	1	3 -- Amorous Clothing+4
+}
+
+Group	Metin_of_Jealousy
+{
+	Mob	8007
+	Type	drop
+	1	170201	1	100 -- Piece of Green Stone
+	2	170302	1	100 -- Piece of Silver
+	3	170301	2	100 -- Piece of Copper
+	4	71151	10	100 -- Green Magic
+	5	25041	1	40 -- Scroll Hephaestus
+	6	170101	1	20 -- Education Chest
+	7	170001	1	0 -- Warrior Chest Book
+	8	170002	1	0 -- Ninja Chest Book
+	9	170003	1	0 -- Sura Chest Book
+	10	170004	1	0 -- Shaman Chest Book
+	11	84	1	3 -- Bastard Sword+4
+	12	1044	1	3 -- Cat Bite Knife+4
+	13	2074	1	3 -- Black Ruin Bow+4
+	14	3074	1	3 -- Halberd+4
+	15	5044	1	3 -- Fountain Bell+4
+	16	7074	1	3 -- Ocean Fan+4
+	17	11244	1	3 -- Lethal Plate Armour+4
+	18	11444	1	3 -- Ant Lion Suit+4
+	19	11644	1	3 -- Yin and Yang Armour+4
+	20	11844	1	3 -- Heavenly Clothing+4
+}
+
+Group	Metin_of_Soul
+{
+	Mob	8008
+	Type	drop
+	1	170201	2	100 -- Piece of Green Stone
+	2	170204	1	100 -- Piece of Violet Stone
+	3	170302	1	100 -- Piece of Silver
+	4	170301	3	100 -- Piece of Copper
+	5	71084	10	100 -- Enchant Item
+	6	30270	1	100 -- Dragon Stone Shard
+	7	50301	1	1 -- Sun Zi Art of War
+	8	50314	1	1 -- Polymorph Book
+	9	25040	1	40 -- Blessing Scroll
+	10	170101	1	60 -- Education Chest
+	11	170001	1	0 -- Warrior Chest Book
+	12	170002	1	0 -- Ninja Chest Book
+	13	170003	1	0 -- Sura Chest Book
+	14	170004	1	0 -- Shaman Chest Book
+	15	94	1	1 -- Barbarian Sword+4
+	16	1054	1	1 -- Devil Mask Dagger+4
+	17	2084	1	1 -- Red Eye Bow+4
+	18	3084	1	1 -- Giant Axe+4
+	19	5054	1	1 -- Apricot Bell+4
+	20	7084	1	1 -- Sting Fan+4
+	21	11244	1	1 -- Lethal Plate Armour+4
+	22	11444	1	1 -- Ant Lion Suit+4
+	23	11644	1	1 -- Yin and Yang Armour+4
+	24	11844	1	1 -- Heavenly Clothing+4
+}
+
+Group	Metin_of_Shadow
+{
+	Mob	8009
+	Type	drop
+	1	170201	2	100 -- Piece of Green Stone
+	2	170204	1	100 -- Piece of Violet Stone
+	3	170302	1	100 -- Piece of Silver
+	4	170301	4	100 -- Piece of Copper
+	5	71084	10	100 -- Enchant Item
+	6	30270	1	100 -- Dragon Stone Shard
+	7	50301	1	1 -- Sun Zi Art of War
+	8	50314	1	1 -- Polymorph Book
+	9	25040	1	40 -- Blessing Scroll
+	10	170101	1	60 -- Education Chest
+	11	170001	1	0 -- Warrior Chest Book
+	12	170002	1	0 -- Ninja Chest Book
+	13	170003	1	0 -- Sura Chest Book
+	14	170004	1	0 -- Shaman Chest Book
+	15	104	1	1 -- Bloody Sword+4
+	16	1064	1	1 -- Devil Fist Dagger+4
+	17	2094	1	1 -- Thorn Leaf Bow+4
+	18	3094	1	1 -- Glacial Pick+4
+	19	5054	1	1 -- Apricot Bell+4
+	20	7094	1	1 -- Phoenix Fan+4
+	21	11254	1	1 -- Dragon Plate Armour+4
+	22	11454	1	1 -- Ninja Suit+4
+	23	11654	1	1 -- Mystic Plate Armour+4
+	24	11854	1	1 -- Sun Clothing+4
+}
+
+Group	Metin_of_Toughness
+{
+	Mob	8010
+	Type	drop
+	1	170201	2	100 -- Piece of Green Stone
+	2	170204	1	100 -- Piece of Violet Stone
+	3	170302	2	100 -- Piece of Silver
+	4	71084	12	100 -- Enchant Item
+	5	30270	1	100 -- Dragon Stone Shard
+	6	50301	1	1 -- Sun Zi Art of War
+	7	50314	1	1 -- Polymorph Book
+	8	25040	1	40 -- Blessing Scroll
+	9	170101	1	60 -- Education Chest
+	10	170001	1	0 -- Warrior Chest Book
+	11	170002	1	0 -- Ninja Chest Book
+	12	170003	1	0 -- Sura Chest Book
+	13	170004	1	0 -- Shaman Chest Book
+	14	114	1	1 -- Great Sword+4
+	15	1074	1	1 -- Bloody Dagger+4
+	16	2104	1	1 -- Bull's Horn Bow+4
+	17	3104	1	1 -- Twelve Spirit Sword+4
+	18	5064	1	1 -- Magical Bell+4
+	19	7104	1	1 -- Triple Fan+4
+	20	11254	1	1 -- Dragon Plate Armour+4
+	21	11454	1	1 -- Ninja Suit+4
+	22	11654	1	1 -- Mystic Plate Armour+4
+	23	11854	1	1 -- Sun Clothing+4
+}
+
+Group	Metin_of_Devil
+{
+	Mob	8011
+	Type	drop
+	1	170201	2	100 -- Piece of Green Stone
+	2	170204	1	100 -- Piece of Violet Stone
+	3	170302	2	100 -- Piece of Silver
+	4	170301	1	100 -- Piece of Copper
+	5	71084	12	100 -- Enchant Item
+	6	30270	1	100 -- Dragon Stone Shard
+	7	50513	1	5 -- Soul Stone
+	8	50301	1	1 -- Sun Zi Art of War
+	9	50314	1	1 -- Polymorph Book
+	10	25040	1	40 -- Blessing Scroll
+	11	170101	1	60 -- Education Chest
+	12	170001	1	0 -- Warrior Chest Book
+	13	170002	1	0 -- Ninja Chest Book
+	14	170003	1	0 -- Sura Chest Book
+	15	170004	1	0 -- Shaman Chest Book
+	16	124	1	1 -- Flying Wizard Sword+4
+	17	1084	1	1 -- Rib Knife+4
+	18	2114	1	1 -- Unicorn Bow+4
+	19	3114	1	1 -- Salvation Blade+4
+	20	5074	1	1 -- Golden Bug Bell+4
+	21	7114	1	1 -- Eyebrow Fan+4
+	22	11264	1	1 -- Scale Plate Armour+4
+	23	11464	1	1 -- Young Dragon Suit+4
+	24	11664	1	1 -- Fog Plate Armour+4
+	25	11864	1	1 -- Clothing of Morality+4
+}
+
+Group	Metin_of_Fall
+{
+	Mob	8012
+	Type	drop
+	1	170201	2	100 -- Piece of Green Stone
+	2	170204	1	100 -- Piece of Violet Stone
+	3	170302	2	100 -- Piece of Silver
+	4	170301	2	100 -- Piece of Copper
+	5	71084	14	100 -- Enchant Item
+	6	30270	1	100 -- Dragon Stone Shard
+	7	50513	1	5 -- Soul Stone
+	8	50301	1	1 -- Sun Zi Art of War
+	9	50314	1	1 -- Polymorph Book
+	10	25040	1	40 -- Blessing Scroll
+	11	170101	1	60 -- Education Chest
+	12	170001	1	0 -- Warrior Chest Book
+	13	170002	1	0 -- Ninja Chest Book
+	14	170003	1	0 -- Sura Chest Book
+	15	170004	1	0 -- Shaman Chest Book
+	16	124	1	1 -- Flying Wizard Sword+4
+	17	1084	1	1 -- Rib Knife+4
+	18	2114	1	1 -- Unicorn Bow+4
+	19	3114	1	1 -- Salvation Blade+4
+	20	5074	1	1 -- Golden Bug Bell+4
+	21	7114	1	1 -- Eyebrow Fan+4
+	22	11264	1	1 -- Scale Plate Armour+4
+	23	11464	1	1 -- Young Dragon Suit+4
+	24	11664	1	1 -- Fog Plate Armour+4
+	25	11864	1	1 -- Clothing of Morality+4
+}
+
+Group	Metin_of_Death
+{
+	Mob	8013
+	Type	drop
+	1	170201	2	100 -- Piece of Green Stone
+	2	170204	1	100 -- Piece of Violet Stone
+	3	170302	2	100 -- Piece of Silver
+	4	170301	3	100 -- Piece of Copper
+	5	71084	14	100 -- Enchant Item
+	6	30270	1	100 -- Dragon Stone Shard
+	7	50513	1	5 -- Soul Stone
+	8	50301	1	1 -- Sun Zi Art of War
+	9	50314	1	1 -- Polymorph Book
+	10	25040	1	40 -- Blessing Scroll
+	11	170101	1	60 -- Education Chest
+	12	170001	1	0 -- Warrior Chest Book
+	13	170002	1	0 -- Ninja Chest Book
+	14	170003	1	0 -- Sura Chest Book
+	15	170004	1	0 -- Shaman Chest Book
+	16	134	1	1 -- Half Moon Sword+4
+	17	1094	1	1 -- Chakram+4
+	18	2124	1	1 -- Giant Wing Bow+4
+	19	3124	1	1 -- Lion Slayer+4
+	20	5084	1	1 -- Steel Bug Bell+4
+	21	7124	1	1 -- Sun Fan+4
+	22	11274	1	1 -- Gold Plate Armour+4
+	23	11474	1	1 -- Killer Wind Suit+4
+	24	11674	1	1 -- Ghost Mask Armour+4
+	25	11874	1	1 -- Orange Cat Dress+4
+}
+
+Group	Metin_of_Murder
+{
+	Mob	8014
+	Type	drop
+	1	170202	1	100 -- Piece of Blue Stone
+	2	170204	2	100 -- Piece of Violet Stone
+	3	170302	2	100 -- Piece of Silver
+	4	170301	4	100 -- Piece of Copper
+	5	71084	16	100 -- Enchant Item
+	6	30270	1	100 -- Dragon Stone Shard
+	7	170211	1	0 -- White Piece of Pearl
+	8	170212	1	0 -- Blue Piece of Pearl
+	9	170213	1	0 -- Blood-Red Piece of Pearl
+	10	50513	1	5 -- Soul Stone
+	11	50301	1	1 -- Sun Zi Art of War
+	12	50314	1	1 -- Polymorph Book
+	13	25040	1	40 -- Blessing Scroll
+	14	170101	1	60 -- Education Chest
+	15	170001	1	0 -- Warrior Chest Book
+	16	170001	1	0 -- Warrior Chest Book
+	17	170002	1	0 -- Ninja Chest Book
+	18	170002	1	0 -- Ninja Chest Book
+	19	170003	1	0 -- Sura Chest Book
+	20	170003	1	0 -- Sura Chest Book
+	21	170004	1	0 -- Shaman Chest Book
+	22	170004	1	0 -- Shaman Chest Book
+	23	134	1	1 -- Half Moon Sword+4
+	24	1094	1	1 -- Chakram+4
+	25	2124	1	1 -- Giant Wing Bow+4
+	26	3124	1	1 -- Lion Slayer+4
+	27	5084	1	1 -- Steel Bug Bell+4
+	28	7120	1	1 -- Sun Fan+4
+	29	11274	1	1 -- Gold Plate Armour+4
+	30	11474	1	1 -- Killer Wind Suit+4
+	31	11674	1	1 -- Ghost Mask Armour+4
+	32	11874	1	1 -- Orange Cat Dress+4
+}
+
+Group	Metin_Pung-Ma
+{
+	Mob	8024
+	Type	drop
+	1	170202	2	100 -- Piece of Blue Stone
+	2	170204	2	100 -- Piece of Violet Stone
+	3	170302	3	100 -- Piece of Silver
+	4	71084	18	100 -- Enchant Item
+	5	30270	2	100 -- Dragon Stone Shard
+	6	170211	1	0 -- White Piece of Pearl
+	7	170212	1	0 -- Blue Piece of Pearl
+	8	170213	1	0 -- Blood-Red Piece of Pearl
+	9	50513	1	5 -- Soul Stone
+	10	50301	1	1 -- Sun Zi Art of War
+	11	50314	1	1 -- Polymorph Book
+	12	25040	1	40 -- Blessing Scroll
+	13	170101	1	60 -- Education Chest
+	14	164	1	1 -- Nymph Sword+4
+	15	244	1	1 -- Exorcism Sword+4
+	16	3144	1	1 -- Electromagnetic Blade+4
+	17	1114	1	1 -- Lightning Knife+4
+	18	2134	1	1 -- Divine Apricot Bow+4
+	19	5094	1	1 -- Thunder Bird Bell+4
+	20	7134	1	1 -- Heavenly Bird Fan+4
+	21	11284	1	1 -- Dragon God Armour+4
+	22	11484	1	1 -- Fuchsia Suit+4
+	23	11684	1	1 -- Spirit Plate Armour+4
+	24	11884	1	1 -- Baroness Dress+4
+	25	14200	1	1 -- Heaven's Tear Bracelet+0
+	26	15200	1	1 -- Phoenix Shoes+0
+	27	16200	1	1 -- Heaven's Tear Necklace+0
+	28	17200	1	1 -- Heaven's Tear Earrings+0
+}
+
+Group	Metin_Ma-An
+{
+	Mob	8025
+	Type	drop
+	1	170202	2	100 -- Piece of Blue Stone
+	2	170204	2	100 -- Piece of Violet Stone
+	3	170302	3	100 -- Piece of Silver
+	4	170301	1	100 -- Piece of Copper
+	5	71084	18	100 -- Enchant Item
+	6	30270	2	100 -- Dragon Stone Shard
+	7	170211	1	0 -- White Piece of Pearl
+	8	170212	1	0 -- Blue Piece of Pearl
+	9	170213	1	0 -- Blood-Red Piece of Pearl
+	10	50513	1	5 -- Soul Stone
+	11	50301	1	1 -- Sun Zi Art of War
+	12	50314	1	1 -- Polymorph Book
+	13	25040	1	40 -- Blessing Scroll
+	14	170101	1	60 -- Education Chest
+	15	164	1	1 -- Nymph Sword+4
+	16	244	1	1 -- Exorcism Sword+4
+	17	3144	1	1 -- Electromagnetic Blade+4
+	18	1114	1	1 -- Lightning Knife+4
+	19	2134	1	1 -- Divine Apricot Bow+4
+	20	5094	1	1 -- Thunder Bird Bell+4
+	21	7134	1	1 -- Heavenly Bird Fan+4
+	22	11284	1	1 -- Dragon God Armour+4
+	23	11484	1	1 -- Fuchsia Suit+4
+	24	11684	1	1 -- Spirit Plate Armour+4
+	25	11884	1	1 -- Baroness Dress+4
+	26	14200	1	1 -- Heaven's Tear Bracelet+0
+	27	15200	1	1 -- Phoenix Shoes+0
+	28	16200	1	1 -- Heaven's Tear Necklace+0
+	29	17200	1	1 -- Heaven's Tear Earrings+0
+}
+
+Group	Metin_Tu-Young
+{
+	Mob	8026
+	Type	drop
+	1	170202	2	100 -- Piece of Blue Stone
+	2	170204	2	100 -- Piece of Violet Stone
+	3	170302	3	100 -- Piece of Silver
+	4	170301	2	100 -- Piece of Copper
+	5	71084	20	100 -- Enchant Item
+	6	30270	2	100 -- Dragon Stone Shard
+	7	170211	1	0 -- White Piece of Pearl
+	8	170212	1	0 -- Blue Piece of Pearl
+	9	170213	1	0 -- Blood-Red Piece of Pearl
+	10	170701	1	3 -- Experience Ring (30 min.)
+	11	170703	1	3 -- Thief's Gloves (30 min.)
+	12	100300	1	20 -- Green Dragon Bean
+	13	50513	1	5 -- Soul Stone
+	14	50301	1	1 -- Sun Zi Art of War
+	15	50314	1	1 -- Polymorph Book
+	16	25040	1	40 -- Blessing Scroll
+	17	170101	1	60 -- Education Chest
+	18	164	1	1 -- Nymph Sword+4
+	19	244	1	1 -- Exorcism Sword+4
+	20	3144	1	1 -- Electromagnetic Blade+4
+	21	1114	1	1 -- Lightning Knife+4
+	22	2134	1	1 -- Divine Apricot Bow+4
+	23	5094	1	1 -- Thunder Bird Bell+4
+	24	7134	1	1 -- Heavenly Bird Fan+4
+	25	11284	1	1 -- Dragon God Armour+4
+	26	11484	1	1 -- Fuchsia Suit+4
+	27	11684	1	1 -- Spirit Plate Armour+4
+	28	11884	1	1 -- Baroness Dress+4
+	29	14200	1	1 -- Heaven's Tear Bracelet+0
+	30	15200	1	1 -- Phoenix Shoes+0
+	31	16200	1	1 -- Heaven's Tear Necklace+0
+	32	17200	1	1 -- Heaven's Tear Earrings+0
+}
+
+Group	Metin_Jeon-Un
+{
+	Mob	8027
+	Type	drop
+	1	170202	2	100 -- Piece of Blue Stone
+	2	170204	2	100 -- Piece of Violet Stone
+	3	170302	3	100 -- Piece of Silver
+	4	170301	3	100 -- Piece of Copper
+	5	71084	20	100 -- Enchant Item
+	6	30270	2	100 -- Dragon Stone Shard
+	7	170211	1	0 -- White Piece of Pearl
+	8	170212	1	0 -- Blue Piece of Pearl
+	9	170213	1	0 -- Blood-Red Piece of Pearl
+	10	170701	1	3 -- Experience Ring (30 min.)
+	11	170703	1	3 -- Thief's Gloves (30 min.)
+	12	100300	1	20 -- Green Dragon Bean
+	13	50513	1	5 -- Soul Stone
+	14	50302	1	1 -- Wu zi Art of War
+	15	50315	1	1 -- Advanced Polymorph Book
+	16	25040	1	40 -- Blessing Scroll
+	17	170101	1	60 -- Education Chest
+	18	144	1	1 -- Battle Sword+4
+	19	154	1	1 -- Ghost Fang Blade+4
+	20	3134	1	1 -- Partisan+4
+	21	1104	1	1 -- Dragon Knife+4
+	22	2144	1	1 -- Yellow Dragon Bow+4
+	23	5104	1	1 -- Heaven and Earth Bell+4
+	24	7144	1	1 -- Salvation Fan+4
+	25	11294	1	1 -- Black Steel Armour+4
+	26	11494	1	1 -- Black Wind Suit+4
+	27	11694	1	1 -- Magic Plate Armour+4
+	28	11894	1	1 -- Black Clothing+4
+	29	14200	1	1 -- Heaven's Tear Bracelet+0
+	30	15200	1	1 -- Phoenix Shoes+0
+	31	16200	1	1 -- Heaven's Tear Necklace+0
+	32	17200	1	1 -- Heaven's Tear Earrings+0
+}
+
+Group	Metin_of_Ember
+{
+	Mob	8052
+	Type	drop
+	1	170203	1	100 -- Piece of Orange Stone
+	2	170204	2	100 -- Piece of Violet Stone
+	3	170303	1	100 -- Piece of Gold
+	4	71084	25	100 -- Enchant Item
+	5	50255	1	100 -- Cor Draconis (Rough)
+	6	49119	1	100 -- Reality Stone
+	7	49120	1	100 -- Mind Stone
+	8	49121	1	100 -- Power Stone
+	9	170701	1	3 -- Experience Ring (30 min.)
+	10	170703	1	3 -- Thief's Gloves (30 min.)
+	11	100300	1	20 -- Green Dragon Bean
+}
+
+Group	Metin_of_Wrath
+{
+	Mob	8054
+	Type	drop
+	1	170203	1	100 -- Piece of Orange Stone
+	2	170204	2	100 -- Piece of Violet Stone
+	3	170303	1	100 -- Piece of Gold
+	4	71084	25	100 -- Enchant Item
+	5	50255	1	100 -- Cor Draconis (Rough)
+	6	49119	1	100 -- Reality Stone
+	7	49120	1	100 -- Mind Stone
+	8	49121	1	100 -- Power Stone
+	9	170701	1	3 -- Experience Ring (30 min.)
+	10	170703	1	3 -- Thief's Gloves (30 min.)
+	11	100300	1	20 -- Green Dragon Bean
+}
+
+Group	Metin_of_the_Tree_Beings
+{
+	Mob	8059
+	Type	drop
+	1	170203	2	100 -- Piece of Orange Stone
+	2	170204	2	100 -- Piece of Violet Stone
+	3	170303	1	100 -- Piece of Gold
+	4	170302	1	100 -- Piece of Silver
+	5	71084	25	100 -- Enchant Item
+	6	50255	1	100 -- Cor Draconis (Rough)
+	7	49125	1	100 -- Crimson Mineral
+	8	49126	1	100 -- Cobalt Mineral
+	9	49127	1	100 -- Saffron Mineral
+	10	170701	1	3 -- Experience Ring (30 min.)
+	11	170703	1	3 -- Thief's Gloves (30 min.)
+	12	100300	1	20 -- Green Dragon Bean
+}
+
+Group	Metin_of_the_Forests
+{
+	Mob	8061
+	Type	drop
+	1	170203	2	100 -- Piece of Orange Stone
+	2	170204	2	100 -- Piece of Violet Stone
+	3	170303	1	100 -- Piece of Gold
+	4	170302	1	100 -- Piece of Silver
+	5	71084	25	100 -- Enchant Item
+	6	50255	1	100 -- Cor Draconis (Rough)
+	7	49125	1	100 -- Crimson Mineral
+	8	49126	1	100 -- Cobalt Mineral
+	9	49127	1	100 -- Saffron Mineral
+	10	170701	1	3 -- Experience Ring (30 min.)
+	11	170703	1	3 -- Thief's Gloves (30 min.)
+	12	100300	1	20 -- Green Dragon Bean
+}
+
+
+
+
+
+Group	Lykos
+{
+	Mob	191
+	Type	drop
+	1	170302	1	100 -- Piece of Silver
+	2	71151	10	100 -- Green Magic
+	3	71151	5	75 -- Green Magic
+	4	25041	1	50 -- Scroll Hephaestus
+}
+
+Group	Scrofa
+{
+	Mob	192
+	Type	drop
+	1	170302	1	100 -- Piece of Silver
+	2	71151	10	100 -- Green Magic
+	3	71151	5	75 -- Green Magic
+	4	25041	1	50 -- Scroll Hephaestus
+}
+
+Group	Bera
+{
+	Mob	193
+	Type	drop
+	1	170302	1	100 -- Piece of Silver
+	2	71151	10	100 -- Green Magic
+	3	71151	5	75 -- Green Magic
+	4	25041	1	50 -- Scroll Hephaestus
+}
+
+Group	Tigris
+{
+	Mob	194
+	Type	drop
+	1	170302	1	100 -- Piece of Silver
+	2	71151	10	100 -- Green Magic
+	3	71151	5	75 -- Green Magic
+	4	25041	1	50 -- Scroll Hephaestus
+}
+
+Group	Mahon
+{
+	Mob	491
+	Type	drop
+	1	170302	2	100 -- Piece of Silver
+	2	71151	20	100 -- Green Magic
+	3	71151	10	75 -- Green Magic
+	4	25041	1	50 -- Scroll Hephaestus
+	5	13024	1	35 -- Pentagon Shield+4
+	6	15084	1	35 -- Leather Boots+4
+	7	16124	1	35 -- Pearl Necklace+4
+}
+
+Group	Bo
+{
+	Mob	492
+	Type	drop
+	1	170302	2	100 -- Piece of Silver
+	2	71151	20	100 -- Green Magic
+	3	71151	10	75 -- Green Magic
+	4	25041	1	50 -- Scroll Hephaestus
+	5	16064	1	35 -- Golden Necklace+4
+	6	17064	1	35 -- Golden Earrings+4
+	7	16084	1	35 -- Jade Necklace+4
+	8	17084	1	35 -- Jade Earrings+4
+}
+
+Group	Goo-Pae
+{
+	Mob	493
+	Type	drop
+	1	170302	2	100 -- Piece of Silver
+	2	71151	20	100 -- Green Magic
+	3	71151	10	75 -- Green Magic
+	4	25041	1	50 -- Scroll Hephaestus
+	5	14104	1	35 -- Ebony Bracelet+4
+	6	16104	1	35 -- Ebony Necklace+4
+	7	17104	1	35 -- Ebony Earrings+4
+}
+
+Group	Chuong
+{
+	Mob	494
+	Type	drop
+	1	170302	2	100 -- Piece of Silver
+	2	71151	20	100 -- Green Magic
+	3	71151	10	75 -- Green Magic
+	4	25041	1	50 -- Scroll Hephaestus
+	5	12224	1	35 -- Iron Helmet+4
+	6	12364	1	35 -- Chain Hood+4
+	7	12504	1	35 -- Mocking Helmet+4
+	8	12644	1	35 -- Phoenix Hat+4
+}
+
+Group	Bestial_Captain
+{
+	Mob	591
+	Type	drop
+	1	170302	1	100 -- Piece of Silver
+	2	71151	40	100 -- Green Magic
+	3	71151	20	75 -- Green Magic
+	4	71151	10	50 -- Green Magic
+	5	50255	1	80 -- Cor Draconis (Rough)
+	6	25041	1	100 -- Scroll Hephaestus
+	7	12220	1	10 -- Iron Helmet+4
+	8	12360	1	10 -- Chain Hood+4
+	9	12500	1	10 -- Mocking Helmet+4
+	10	12640	1	10 -- Phoenix Hat+4
+	11	13020	1	10 -- Pentagon Shield+4
+	12	14100	1	10 -- Ebony Bracelet+4
+	13	15080	1	10 -- Leather Boots+4
+	14	16120	1	10 -- Pearl Necklace+4
+	15	17100	1	10 -- Ebony Earrings+4
+	16	11244	1	10 -- Lethal Plate Armour+4
+	17	11444	1	10 -- Ant Lion Suit+4
+	18	11644	1	10 -- Yin and Yang Armour+4
+	19	11844	1	10 -- Heavenly Clothing+4
+	20	290	1	10 -- Full Moon Sword+0
+	21	3210	1	10 -- Red Iron Blade+0
+	22	1170	1	10 -- Black Leaf Dirk+0
+	23	2150	1	10 -- Hornbow+0
+	24	7160	1	10 -- Autumn Wind Fan+0
+	25	5110	1	10 -- Antique Bell+0
+}
+
+Group	Chief_Orc
+{
+	Mob	691
+	Type	drop
+	1	171001	1	100 -- Chief Orc Chest
+	2	49101	1	60 -- Signet Ruler
+	3	170304	1	100 -- Piece of Sapphire
+	4	71084	50	100 -- Enchant Item
+	5	71084	25	75 -- Enchant Item
+	6	50256	1	100 -- Cor Draconis (Cut)
+	7	50255	1	100 -- Cor Draconis (Rough)
+	8	50255	1	75 -- Cor Draconis (Rough)
+	9	100300	1	25 -- Green Dragon Bean
+	10	80019	4	100 -- Fine Cloth
+	11	80019	2	50 -- Fine Cloth
+	12	170602	2	100 -- Enchant Belt
+	13	170602	1	50 -- Enchant Belt
+	14	50302	1	10 -- Wu zi Art of War
+	15	50315	1	10 -- Advanced Polymorph Book
+	16	25040	1	60 -- Blessing Scroll
+	17	25042	1	30 -- Dragon Scroll
+	18	71035	1	40 -- Researcher's Elixir
+	19	172001	1	40 -- Time Spiral
+	20	12240	1	10 -- Ghost Mask Sallet+0
+	21	12380	1	10 -- Steel Hood+0
+	22	12520	1	10 -- Castle Helmet+0
+	23	12660	1	10 -- Sunlight Hat+0
+	24	13040	1	10 -- Black Round Shield+0
+}
+
+Group	Giant_Tortoise
+{
+	Mob	2191
+	Type	drop
+	1	171002	1	100 -- Desert Tortoise Chest
+	2	49101	1	60 -- Signet Ruler
+	3	170304	1	100 -- Piece of Sapphire
+	4	71084	50	100 -- Enchant Item
+	5	71084	25	75 -- Enchant Item
+	6	50256	1	100 -- Cor Draconis (Cut)
+	7	50256	1	75 -- Cor Draconis (Cut)
+	8	50256	1	50 -- Cor Draconis (Cut)
+	9	100300	1	25 -- Green Dragon Bean
+	10	80019	4	100 -- Fine Cloth
+	11	80019	2	50 -- Fine Cloth
+	12	170602	2	100 -- Enchant Belt
+	13	170602	1	50 -- Enchant Belt
+	14	50302	1	10 -- Wu zi Art of War
+	15	50315	1	10 -- Advanced Polymorph Book
+	16	25040	1	60 -- Blessing Scroll
+	17	25042	1	30 -- Dragon Scroll
+	18	71035	1	40 -- Researcher's Elixir
+	19	172001	1	40 -- Time Spiral
+	20	12240	1	10 -- Ghost Mask Sallet+0
+	21	12380	1	10 -- Steel Hood+0
+	22	12520	1	10 -- Castle Helmet+0
+	23	12660	1	10 -- Sunlight Hat+0
+	24	13040	1	10 -- Black Round Shield+0
+}
+
+Group	Dark-Ghost_Leader
+{
+	Mob	792
+	Type	drop
+	1	171003	1	100 -- Esoteric Leader Chest
+	2	49101	1	60 -- Signet Ruler
+	3	170304	1	100 -- Piece of Sapphire
+	4	71084	50	100 -- Enchant Item
+	5	71084	25	75 -- Enchant Item
+	6	50256	1	100 -- Cor Draconis (Cut)
+	7	50255	1	100 -- Cor Draconis (Rough)
+	8	50255	1	75 -- Cor Draconis (Rough)
+	9	100300	1	25 -- Green Dragon Bean
+	10	80019	4	100 -- Fine Cloth
+	11	80019	2	50 -- Fine Cloth
+	12	170602	2	100 -- Enchant Belt
+	13	170602	1	50 -- Enchant Belt
+	14	50302	1	10 -- Wu zi Art of War
+	15	50315	1	10 -- Advanced Polymorph Book
+	16	25040	1	60 -- Blessing Scroll
+	17	25042	1	30 -- Dragon Scroll
+	18	71035	1	40 -- Researcher's Elixir
+	19	172001	1	40 -- Time Spiral
+	20	12240	1	10 -- Ghost Mask Sallet+0
+	21	12380	1	10 -- Steel Hood+0
+	22	12520	1	10 -- Castle Helmet+0
+	23	12660	1	10 -- Sunlight Hat+0
+	24	13040	1	10 -- Black Round Shield+0
+}
+
+Group	Yellow_Tiger_Ghost
+{
+	Mob	1304
+	Type	drop
+	1	171004	1	100 -- Yellow Tiger Chest
+	2	49101	1	60 -- Signet Ruler
+	3	170304	1	100 -- Piece of Sapphire
+	4	71084	50	100 -- Enchant Item
+	5	71084	25	75 -- Enchant Item
+	6	50256	1	100 -- Cor Draconis (Cut)
+	7	50256	1	75 -- Cor Draconis (Cut)
+	8	50256	1	50 -- Cor Draconis (Cut)
+	9	100300	1	25 -- Green Dragon Bean
+	10	80019	4	100 -- Fine Cloth
+	11	80019	2	50 -- Fine Cloth
+	12	170602	2	100 -- Enchant Belt
+	13	170602	1	50 -- Enchant Belt
+	14	50302	1	10 -- Wu zi Art of War
+	15	50315	1	10 -- Advanced Polymorph Book
+	16	25040	1	60 -- Blessing Scroll
+	17	25042	1	30 -- Dragon Scroll
+	18	71035	1	40 -- Researcher's Elixir
+	19	172001	1	40 -- Time Spiral
+	20	12240	1	10 -- Ghost Mask Sallet+0
+	21	12380	1	10 -- Steel Hood+0
+	22	12520	1	10 -- Castle Helmet+0
+	23	12660	1	10 -- Sunlight Hat+0
+	24	13040	1	10 -- Black Round Shield+0
+}
+
+Group	Nine_Tails
+{
+	Mob	1901
+	Type	drop
+	1	171005	1	100 -- Nine Tails Chest
+	2	49101	1	60 -- Signet Ruler
+	3	170304	1	100 -- Piece of Sapphire
+	4	71084	50	100 -- Enchant Item
+	5	71084	25	75 -- Enchant Item
+	6	50256	1	100 -- Cor Draconis (Cut)
+	7	50256	1	75 -- Cor Draconis (Cut)
+	8	50256	1	50 -- Cor Draconis (Cut)
+	9	100300	1	25 -- Green Dragon Bean
+	10	80019	4	100 -- Fine Cloth
+	11	80019	2	50 -- Fine Cloth
+	12	170602	2	100 -- Enchant Belt
+	13	170602	1	50 -- Enchant Belt
+	14	50302	1	10 -- Wu zi Art of War
+	15	50315	1	10 -- Advanced Polymorph Book
+	16	25040	1	60 -- Blessing Scroll
+	17	25042	1	30 -- Dragon Scroll
+	18	71035	1	40 -- Researcher's Elixir
+	19	172001	1	40 -- Time Spiral
+	20	12240	1	10 -- Ghost Mask Sallet+0
+	21	12380	1	10 -- Steel Hood+0
+	22	12520	1	10 -- Castle Helmet+0
+	23	12660	1	10 -- Sunlight Hat+0
+	24	13040	1	10 -- Black Round Shield+0
+}
+
+Group	Queen_Spider
+{
+	Mob	2091
+	Type	drop
+	1	171006	1	100 -- Queen Spider Chest
+	2	49101	1	60 -- Signet Ruler
+	3	170304	1	100 -- Piece of Sapphire
+	4	71084	50	100 -- Enchant Item
+	5	71084	25	75 -- Enchant Item
+	6	50256	1	100 -- Cor Draconis (Cut)
+	7	50255	1	100 -- Cor Draconis (Rough)
+	8	50255	1	75 -- Cor Draconis (Rough)
+	9	100300	1	25 -- Green Dragon Bean
+	10	80019	4	100 -- Fine Cloth
+	11	80019	2	50 -- Fine Cloth
+	12	170602	2	100 -- Enchant Belt
+	13	170602	1	50 -- Enchant Belt
+	14	50302	1	10 -- Wu zi Art of War
+	15	50315	1	10 -- Advanced Polymorph Book
+	16	25040	1	60 -- Blessing Scroll
+	17	25042	1	30 -- Dragon Scroll
+	18	71035	1	40 -- Researcher's Elixir
+	19	172001	1	40 -- Time Spiral
+	20	12240	1	10 -- Ghost Mask Sallet+0
+	21	12380	1	10 -- Steel Hood+0
+	22	12520	1	10 -- Castle Helmet+0
+	23	12660	1	10 -- Sunlight Hat+0
+	24	13040	1	10 -- Black Round Shield+0
+}
+
+Group	Flame_King
+{
+	Mob	2206
+	Type	drop
+	1	171007	1	100 -- Flame King Chest
+	2	49101	1	60 -- Signet Ruler
+	3	170304	1	100 -- Piece of Sapphire
+	4	71084	50	100 -- Enchant Item
+	5	71084	25	75 -- Enchant Item
+	6	50256	1	100 -- Cor Draconis (Cut)
+	7	50256	1	75 -- Cor Draconis (Cut)
+	8	50256	1	50 -- Cor Draconis (Cut)
+	9	100300	1	25 -- Green Dragon Bean
+	10	80019	4	100 -- Fine Cloth
+	11	80019	2	50 -- Fine Cloth
+	12	170602	2	100 -- Enchant Belt
+	13	170602	1	50 -- Enchant Belt
+	14	50302	1	10 -- Wu zi Art of War
+	15	50315	1	10 -- Advanced Polymorph Book
+	16	25040	1	60 -- Blessing Scroll
+	17	25042	1	30 -- Dragon Scroll
+	18	71035	1	40 -- Researcher's Elixir
+	19	172001	1	40 -- Time Spiral
+	20	12240	1	10 -- Ghost Mask Sallet+0
+	21	12380	1	10 -- Steel Hood+0
+	22	12520	1	10 -- Castle Helmet+0
+	23	12660	1	10 -- Sunlight Hat+0
+	24	13040	1	10 -- Black Round Shield+0
+}
+
+Group	Giant_Ghost_Tree
+{
+	Mob	2306
+	Type	drop
+	1	171008	1	100 -- Ancient Tree Chest
+	2	49102	1	60 -- Soul Ruler
+	3	71084	50	100 -- Enchant Item
+	4	71084	25	75 -- Enchant Item
+	5	170304	1	100 -- Piece of Sapphire
+	6	170302	1	100 -- Piece of Silver
+	7	50256	1	100 -- Cor Draconis (Cut)
+	8	50256	1	75 -- Cor Draconis (Cut)
+	9	50256	1	50 -- Cor Draconis (Cut)
+	10	80019	6	100 -- Fine Cloth
+	11	80019	3	50 -- Fine Cloth
+	12	170602	4	100 -- Enchant Belt
+	13	170602	2	100 -- Enchant Belt
+	14	50513	1	20 -- Soul Stone
+	15	50303	1	10 -- WeiLiao Zi Art of War
+	16	50316	1	10 -- Master Polymorph Book
+	17	25040	1	100 -- Blessing Scroll
+	18	25042	1	50 -- Dragon Scroll
+	19	25042	1	40 -- Magic Stone
+	20	11290	1	5 -- Black Steel Armour+0
+	21	11490	1	5 -- Black Wind Suit+0
+	22	11690	1	5 -- Magic Plate Armour+0
+	23	11890	1	5 -- Black Clothing+0
+}
+
+Group	Ghost_Tree_Lord
+{
+	Mob	2307
+	Type	drop
+	1	171009	1	100 -- Eoten Chest
+	2	49102	1	60 -- Soul Ruler
+	3	71084	50	100 -- Enchant Item
+	4	71084	25	75 -- Enchant Item
+	5	170304	1	100 -- Piece of Sapphire
+	6	170302	1	100 -- Piece of Silver
+	7	50256	1	100 -- Cor Draconis (Cut)
+	8	50256	1	75 -- Cor Draconis (Cut)
+	9	50256	1	50 -- Cor Draconis (Cut)
+	10	80019	6	100 -- Fine Cloth
+	11	80019	3	50 -- Fine Cloth
+	12	170602	4	100 -- Enchant Belt
+	13	170602	2	50 -- Enchant Belt
+	14	50513	1	20 -- Soul Stone
+	15	50303	1	10 -- WeiLiao Zi Art of War
+	16	50316	1	10 -- Master Polymorph Book
+	17	25040	1	100 -- Blessing Scroll
+	18	25042	1	50 -- Dragon Scroll
+	19	25043	1	40 -- Magic Stone
+	20	11290	1	5 -- Black Steel Armour+0
+	21	11490	1	5 -- Black Wind Suit+0
+	22	11690	1	5 -- Magic Plate Armour+0
+	23	11890	1	5 -- Black Clothing+0
+}
+
+Group	General_Yonghan
+{
+	Mob	2492
+	Type	drop
+	1	49103	1	100 -- Blood Exiles
+	2	71084	100	100 -- Enchant Item
+	3	71084	75	75 -- Enchant Item
+	4	71084	50	50 -- Enchant Item
+	5	170304	2	100 -- Piece of Sapphire
+	6	170302	2	100 -- Piece of Silver
+	7	50257	1	100 -- Cor Draconis (Rare)
+	8	50256	1	100 -- Cor Draconis (Cut)
+	9	50256	1	75 -- Cor Draconis (Cut)
+	10	50256	1	50 -- Cor Draconis (Cut)
+	11	80019	6	100 -- Fine Cloth
+	12	80019	3	50 -- Fine Cloth
+	13	170602	4	100 -- Enchant Belt
+	14	170602	2	50 -- Enchant Belt
+	15	50513	1	20 -- Soul Stone
+	16	50303	1	10 -- WeiLiao Zi Art of War
+	17	50316	1	10 -- Master Polymorph Book
+	18	25040	1	100 -- Blessing Scroll
+	19	25042	1	50 -- Dragon Scroll
+	20	25043	1	40 -- Magic Stone
+	21	11290	1	5 -- Black Steel Armour+0
+	22	11490	1	5 -- Black Wind Suit+0
+	23	11690	1	5 -- Magic Plate Armour+0
+	24	11890	1	5 -- Black Clothing+0
+}
+
+Group	Polyphemos
+{
+	Mob	3191
+	Type	drop
+	1	171010	1	100 -- xXx Chest
+	2	30506	1	100 -- Sapphire Engraving Knife
+	3	30500	1	100 -- Ruby Engraving Knife
+	4	71084	200	100 -- Enchant Item
+	5	170304	2	100 -- Piece of Sapphire
+	6	50256	4	100 -- Cor Draconis (Cut)
+	7	80019	3	100 -- Fine Cloth
+	8	50926	1	100 -- Glimmerstone
+	9	170602	3	100 -- Enchant Belt
+	10	25043	1	100	-- Magic Stone
+}
+
+Group	Brutal_Red_Chief
+{
+	Mob	3596
+	Type	drop
+	1	171010	1	100 -- xXx Chest
+	2	30508	1	100 -- Sapphire Decoration
+	3	30502	1	100 -- Ruby Decoration
+	4	71084	200	100 -- Enchant Item
+	5	170304	2	100 -- Piece of Sapphire
+	6	50256	4	100 -- Cor Draconis (Cut)
+	7	80019	3	100 -- Fine Cloth
+	8	50926	1	100 -- Glimmerstone
+	9	170602	3	100 -- Enchant Belt
+	10	25043	1	100	-- Magic Stone
+}
+
+Group	Gargoyle
+{
+	Mob	3790
+	Type	drop
+	1	171010	1	100 -- xXx Chest
+	2	30509	1	100 -- Sapphire Dragon Steel
+	3	30512	1	100 -- Ruby Dragon Steel
+	4	71084	200	100 -- Enchant Item
+	5	170304	2	100 -- Piece of Sapphire
+	6	50256	4	100 -- Cor Draconis (Cut)
+	7	80019	3	100 -- Fine Cloth
+	8	50926	1	100 -- Glimmerstone
+	9	170602	3	100 -- Enchant Belt
+	10	25043	1	100	-- Magic Stone
+}
+
+Group	En-Tai_Sovereign
+{
+	Mob	6407
+	Type	drop
+	1	171011	1	100 -- xXx Chest
+	2	49107	1	100 -- Soul Vial
+	3	49108	1	100 -- Vial Time
+	4	49109	1	100 -- Space Vial
+	5	49110	1	100 -- Hell's Ball
+	6	49111	1	100 -- Fireball
+	7	49112	1	100 -- Burning Ball
+	8	49113	1	100 -- Renewal Core
+	9	49114	1	100 -- Rebirth Core
+	10	49115	1	100 -- Awakening Core
+	11	71084	250	100 -- Enchant Item
+	12	170304	3	100 -- Piece of Sapphire
+	13	50255	20	100 -- Cor Draconis (Rough)
+	14	80019	5	100 -- Fine Cloth
+	15	50926	1	100 -- Glimmerstone
+	16	170602	5	100 -- Enchant Belt
+	17	25043	1	100 -- Magic Stone
+}
+
+
+
+
+
+Group	Metin_of_the_Orc_Labyrinth
+{
+	Mob	8070
+	Type	drop
+	1	71084	2	100 -- Enchant Item
+	2	170001	1	0 -- Warrior Chest Book
+	3	170002	1	0 -- Ninja Chest Book
+	4	170003	1	0 -- Sura Chest Book
+	5	170004	1	0 -- Shaman Chest Book
+	6	50513	1	3 -- Soul Stone
+	7	170101	1	60 -- Education Chest
+	8	25040	1	40 -- Blessing Scroll
+	9	170201	2	100 -- Piece of Green Stone
+	10	170204	1	100 -- Piece of Violet Stone
+	11	170301	2	100 -- Piece of Copper
+	12	170302	2	100 -- Piece of Silver
+	13	30270	1	100 -- Dragon Stone Shard
+}
+
+Group	Reborn_Chief_Ork
+{
+	Mob	693
+	Type	drop
+	1	54701	1	100 -- Reborn Orc Chief Chest
+	2	170304	2	100 -- Piece of Sapphire
+	3	170303	2	100 -- Piece of Gold
+	4	71084	100	100 -- Enchant Item
+	5	50256	3	100 -- Cor Draconis (Cut)
+	6	80019	8	100 -- Fine Cloth
+	7	80019	4	100 -- Fine Cloth
+	8	170602	4	100 -- Enchant Belt
+	9	170602	2	100 -- Enchant Belt
+	10	50569	1	40 -- Spirit Diamond
+	11	50302	1	40 -- Wu zi Art of War
+	12	50315	1	40 -- Advanced Polymorph Book
+	13	25040	2	100 -- Blessing Scroll
+	14	25041	1	60 -- Dragon Scroll
+	15	25043	1	40 -- Magic Stone
+	16	71035	1	40 -- Researcher's Elixir
+	17	172001	1	40 -- Time Spiral
+	18	18010	1	50 -- Leather Belt +0
+	19	18040	1	50 -- King's Belt +0
+	20	13026	1	35 -- Pentagon Shield+6
+	21	15086	1	10 -- Leather Boots+6
+	22	14106	1	10 -- Ebony Bracelet+6
+	23	16106	1	10 -- Ebony Necklace+6
+	24	17106	1	10 -- Ebony Earrings+6
+	25	14086	1	10 -- Jade Bracelet+6
+	26	16086	1	10 -- Jade Necklace+6
+	27	17086	1	10 -- Jade Earrings+6
+	28	14066	1	10 -- Gold Bracelet+6
+	29	16066	1	10 -- Golden Necklace+6
+	30	17066	1	10 -- Golden Earrings+6
+	31	296	1	10 -- Full Moon Sword+6
+	32	3216	1	10 -- Red Iron Blade+6
+	33	1176	1	10 -- Black Leaf Dirk+6
+	34	2156	1	10 -- Hornbow+6
+	35	7166	1	10 -- Autumn Wind Fan+6
+	36	5116	1	10 -- Antique Bell+6
+}
+
+Group	Spider_Baroness
+{
+	Mob	2092
+	Type	drop
+	1	54702	1	100 -- Mutton Spider Chest
+	2	71084	300	100 -- Enchant Item
+	3	170305	1	100 -- Piece of Emerald
+	4	50256	5	100 -- Cor Draconis (Cut)
+	5	27992	1	0 -- White Pearl
+	6	27993	1	0 -- Blue Pearl
+	7	27994	1	0 -- Blood-Red Pearl
+	8	25043	1	20 -- Magic Stone
+	9	80019	8	100 -- Fine Cloth
+	10	80019	4	100 -- Fine Cloth
+	11	170602	4	100 -- Enchant Belt
+	12	170602	2	100 -- Enchant Belt
+	13	50569	1	40 -- Spirit Diamond
+	14	50302	1	40 -- Wu zi Art of War
+	15	50315	1	40 -- Advanced Polymorph Book
+	16	25040	2	100 -- Blessing Scroll
+	17	25042	1	60 -- Dragon Scroll
+	18	25043	1	40 -- Magic Stone
+	19	71035	1	40 -- Researcher's Elixir
+	20	172001	1	40 -- Time Spiral
+	21	13060	1	10 -- Falcon Shield+0
+	22	13080	1	10 -- Tiger Shield+0
+	23	13100	1	10 -- Lion Edge Shield+0
+	24	13120	1	10 -- Dragon Scale Shield+0
+	25	18030	1	30 -- Belt of Wisdom+0
+	26	18020	1	30 -- Magnificent Belt+0
+}
+
+Group	Death_Reaper
+{
+	Mob	1093
+	Type	drop
+	1	54703	1	100 -- Dead Ripper Chest
+	2	71084	100	150 -- Enchant Item
+	3	170304	2	100 -- Piece of Sapphire
+	4	50257	1	80 -- Cor Draconis (Rare)
+	5	50256	1	100 -- Cor Draconis (Cut)
+	6	50256	1	75 -- Cor Draconis (Cut)
+	7	50255	2	100 -- Cor Draconis (Rough)
+	8	27992	1	0 -- White Pearl
+	9	27993	1	0 -- Blue Pearl
+	10	27994	1	0 -- Blood-Red Pearl
+	11	80019	4	100 -- Fine Cloth
+	12	80019	2	100 -- Fine Cloth
+	13	170602	4	100 -- Enchant Belt
+	14	170602	2	100 -- Enchant Belt
+	15	50569	1	20 -- Spirit Diamond
+	16	50302	1	50 -- Wu zi Art of War
+	17	50315	1	50 -- Advanced Polymorph Book
+	18	25040	2	100 -- Blessing Scroll
+	19	25042	1	60 -- Dragon Scroll
+	20	71035	1	40 -- Researcher's Elixir
+	21	172001	1	40 -- Time Spiral
+}
+
+Group	Metin_of_Retribution
+{
+	Mob	8038
+	Type	drop
+	1	71084	5	100 -- Enchant Item
+	2	50513	1	3 -- Soul Stone
+	3	170101	1	60 -- Education Chest
+	4	25040	1	10 -- Blessing Scroll
+	5	170201	2	100 -- Piece of Green Stone
+	6	170204	1	100 -- Piece of Violet Stone
+	7	170301	3	100 -- Piece of Copper
+	8	170302	2	100 -- Piece of Silver
+	9	30270	1	100 -- Dragon Stone Shard
+}
+
+Group	Azrael
+{
+	Mob	2598
+	Type	drop
+	1	54704	1	100 -- Azrael Chest
+	2	71084	300	100 -- Enchant Item
+	3	71084	100	50 -- Enchant Item
+	4	170305	1	100 -- Piece of Emerald
+	5	50257	2	100 -- Cor Draconis (Rare)
+	6	50256	4	100 -- Cor Draconis (Cut)
+	7	50255	1	100 -- Cor Draconis (Rough)
+	8	27992	1	0 -- White Pearl
+	9	27993	1	0 -- Blue Pearl
+	10	27994	1	0 -- Blood-Red Pearl
+	11	25042	1	60 -- Dragon Scroll
+	12	25043	1	30 -- Magic Stone
+	13	25044	1	30 -- Mystic Stone
+	14	80019	10	100 -- Fine Cloth
+	15	80019	5	100 -- Fine Cloth
+	16	170602	6	100 -- Enchant Belt
+	17	170602	3	100 -- Enchant Belt
+	18	50569	1	20 -- Spirit Diamond
+	19	50302	1	100 -- Wu zi Art of War
+	20	50315	1	100 -- Advanced Polymorph Book
+}
+
+Group	Beran-Setaou
+{
+	Mob	2493
+	Type	drop
+	1	54705	1	100 -- Beran-Setaou Chest
+	2	71129	1	100 -- Dragon Claw
+	3	71123	1	100 -- Dragon Scales
+	4	71084	300	100 -- Enchant Item
+	5	71084	100	50 -- Enchant Item
+	6	170305	1	100 -- Piece of Emerald
+	7	50257	2	100 -- Cor Draconis (Rare)
+	8	50256	4	100 -- Cor Draconis (Cut)
+	9	50255	1	100 -- Cor Draconis (Rough)
+	10	27992	1	0 -- White Pearl
+	11	27993	1	0 -- Blue Pearl
+	12	27994	1	0 -- Blood-Red Pearl
+	13	25042	1	60 -- Dragon Scroll
+	14	25043	1	30 -- Magic Stone
+	15	25044	1	30 -- Mystic Stone
+	16	80019	10	100 -- Fine Cloth
+	17	80019	5	100 -- Fine Cloth
+	18	170602	6	100 -- Enchant Belt
+	19	170602	3	100 -- Enchant Belt
+	20	50569	1	20 -- Spirit Diamond
+	21	50302	1	100 -- Wu zi Art of War
+	22	50315	1	100 -- Advanced Polymorph Book
+}
+
+Group	Razador
+{
+	Mob	6091
+	Type	drop
+	1	54706	1	100 -- Razadora Chest
+	2	30524	1	100 -- Flame Stone
+	3	71084	300	100 -- Enchant Item
+	4	71084	150	100 -- Enchant Item
+	5	170305	3	100 -- Piece of Emerald
+	6	170305	1	100 -- Piece of Emerald
+	7	50255	20	100 -- Cor Draconis (Rough)
+	8	25043	1	40 -- Magic Stone
+	9	80019	4	100 -- Fine Cloth
+	10	170602	6	100 -- Enchant Belt
+	11	25040	5	100 -- Blessing Scroll
+}
+
+Group	Nemere
+{
+	Mob	6191
+	Type	drop
+	1	54707	1	100 -- Nemere Chest
+	2	30525	1	100 -- Ice Flame Stone
+	3	71084	300	100 -- Enchant Item
+	4	71084	150	100 -- Enchant Item
+	5	170305	3	100 -- Piece of Emerald
+	6	170305	1	50 -- Piece of Emerald
+	7	50255	20	100 -- Cor Draconis (Rough)
+	8	25043	1	40 -- Magic Stone
+	9	80019	4	100 -- Fine Cloth
+	10	170602	6	100 -- Enchant Belt
+	11	25040	5	100 -- Blessing Scroll
+}
+
+Group	Jotun_Thrym
+{
+	Mob	6192
+	Type	drop
+	1	54708	1	100 -- Jotun Thrym Chest
+	2	30625	1	100 -- Padparadscha
+	3	30626	1	100 -- Kyanite
+	4	30612	1	100 -- Sturdy Cords
+	5	71084	400	100 -- Enchant Item
+	6	71084	200	100 -- Enchant Item
+	7	170305	4	100 -- Piece of Emerald
+	8	50255	25	100 -- Cor Draconis (Rough)
+	9	25043	1	40 -- Magic Stone
+	10	80019	4	100 -- Fine Cloth
+	11	170602	8	100 -- Enchant Belt
+	12	25040	5	100 -- Blessing Scroll
+}
+
+Group	Golden_Dragon_Chest
+{
+	Mob	20420
+	Type	drop
+	1	54709	1	100 -- Queen Meley Chest
+	2	30620	1	100 -- Red Dragon Horn
+	3	30621	1	100 -- Red Dragon Scale
+	4	30630	1	100 -- Dragon Wings
+	5	71084	500	100 -- Enchant Item
+	6	71084	250	100 -- Enchant Item
+	7	170305	5	100 -- Piece of Emerald
+	8	50255	25	100 -- Cor Draconis (Rough)
+	9	25043	1	30 -- Magic Stone
+	10	80019	4	100 -- Fine Cloth
+	10	170602	8	100 -- Enchant Belt
+	11	25040	5	100 -- Blessing Scroll
+}
+
+Group	Hydra's_Treasure
+{
+	Mob	3965
+	Type	drop
+	1	54710	1	100 -- Hydra Chest
+	2	30631	1	100 -- Blue Dragon Horn
+	3	30632	1	100 -- Blue Dragon Scales
+	4	30633	1	100 -- Wings of Hydra
+	5	71084	500	100 -- Enchant Item
+	6	71084	250	100 -- Enchant Item
+	7	170305	5	100 -- Piece of Emerald
+	8	50255	25	100 -- Cor Draconis (Rough)
+	9	25043	1	30 -- Magic Stone
+	10	80019	4	100 -- Fine Cloth
+	11	170602	8	100 -- Enchant Belt
+	12	25040	5	100 -- Blessing Scroll
+}

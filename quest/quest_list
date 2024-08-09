@@ -1,0 +1,52 @@
+### To compile all the luas written in here, you just have to do:
+## ./pre_qc.py -ac
+### OR
+## python pre_qc.py -ac
+
+## READ
+Xemia/Dragon_Soul/Dragon_Soul.lua
+Xemia/Dragon_Soul/Dragon_Soul_Refine.lua
+Xemia/Dragon_Soul/Dragon_Soul_Shop.lua
+
+Xemia/Dungeons/Orc_Maze/Orc_Maze.lua
+Xemia/Dungeons/Demon_Tower/Demon_Tower.lua
+Xemia/Dungeons/Spider_Queens_Nest/Spider_Queens_Nest.lua
+Xemia/Dungeons/Devils_Catacomb/Devils_Catacomb.lua
+Xemia/Dungeons/Dragon_Lair/Dragon_Lair.lua
+Xemia/Dungeons/Red_Dragon_Fortress/Red_Dragon_Fortress.lua
+Xemia/Dungeons/Nemeres_Watchtower/Nemeres_Watchtower.lua
+Xemia/Dungeons/Erebos/Erebos.lua
+Xemia/Dungeons/Meleys_Hort/Meleys_Hort.lua
+Xemia/Dungeons/Ship_Defense/Ship_Defense.lua
+
+Xemia/Guild/Guild_Building.lua
+Xemia/Guild/Guild_Building_Alter_of_Power.lua
+Xemia/Guild/Guild_Building_Melt.lua
+Xemia/Guild/Guild_Building_NPC.lua
+Xemia/Guild/Guild_Manage.lua
+Xemia/Guild/Guild_Manage_Old.lua
+Xemia/Guild/Guild_War_Join.lua
+Xemia/Guild/Guild_War_Observer.lua
+
+Xemia/NPC/Wedding_Shop.lua
+
+Xemia/Item/Item_Change_Empire.lua
+Xemia/Item/Item_Change_Sex.lua
+Xemia/Item/Item_Exchange.lua
+Xemia/Item/Reset_Scroll.lua
+Xemia/Item/Reset_Skill.lua
+Xemia/Item/Training_Grandmaster_Skill.lua
+
+Xemia/NPC/Blacksmith.lua
+Xemia/NPC/Deokbae.lua
+Xemia/NPC/Gaya_System.lua
+Xemia/NPC/Marriage_Manage.lua
+Xemia/NPC/Shoulder_Sash_System.lua
+Xemia/NPC/Warehouse.lua
+Xemia/NPC/Uriel.lua
+
+Xemia/Drop_Metin.lua
+## Xemia/Enter_the_Game.lua
+Xemia/Game_Option.lua
+
+Xemia/Zuo_Event.lua

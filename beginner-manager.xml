@@ -1,0 +1,91 @@
+<Beginner-Manager>
+	<Type id="0" name="Warrior">
+		<Item vnum="19" count="1" equip="true"/>
+		<Item vnum="3009" count="1"/>
+		<Item vnum="11209" count="1" equip="true">
+			<Applys>
+				<Apply type="MAX_HP" value="2000"/>
+				<Apply type="ATT_BONUS" value="50"/>
+				<Apply type="STEAL_HP" value="10"/>
+				<Apply type="RESIST_BOW" value="15"/>
+				<Apply type="CAST_SPEED" value="20"/>
+			</Applys>
+		</Item>
+		<Item vnum="12209" count="1" equip="true"/>
+	</Type>
+	<Type id="1" name="Ninja">
+		<Item vnum="19" count="1" equip="true"/>
+		<Item vnum="1009" count="1"/>
+		<Item vnum="2009" count="1"/>
+		<Item vnum="11409" count="1" equip="true">
+			<Applys>
+				<Apply type="MAX_HP" value="2000"/>
+				<Apply type="ATT_BONUS" value="50"/>
+				<Apply type="STEAL_HP" value="10"/>
+				<Apply type="RESIST_BOW" value="15"/>
+				<Apply type="CAST_SPEED" value="20"/>
+			</Applys>
+		</Item>
+		<Item vnum="12349" count="1" equip="true"/>
+	</Type>
+	<Type id="2" name="Sura">
+		<Item vnum="19" count="1" equip="true"/>
+		<Item vnum="11609" count="1" equip="true">
+			<Applys>
+				<Apply type="MAX_HP" value="2000"/>
+				<Apply type="ATT_BONUS" value="50"/>
+				<Apply type="STEAL_HP" value="10"/>
+				<Apply type="RESIST_BOW" value="15"/>
+				<Apply type="CAST_SPEED" value="20"/>
+			</Applys>
+		</Item>
+		<Item vnum="12489" count="1" equip="true"/>
+	</Type>
+	<Type id="3" name="Shaman">
+		<Item vnum="5009" count="1" equip="true"/>
+		<Item vnum="7009" count="1"/>
+		<Item vnum="11809" count="1" equip="true">
+			<Applys>
+				<Apply type="MAX_HP" value="2000"/>
+				<Apply type="ATT_BONUS" value="50"/>
+				<Apply type="STEAL_HP" value="10"/>
+				<Apply type="RESIST_BOW" value="15"/>
+				<Apply type="CAST_SPEED" value="20"/>
+			</Applys>
+		</Item>
+		<Item vnum="12629" count="1" equip="true"/>
+	</Type>
+	<Type id="4" name="Everyone">
+		<Item vnum="13009" count="1" equip="true"/>
+		<Item vnum="14009" count="1" equip="true"/>
+		<Item vnum="15009" count="1" equip="true"/>
+		<Item vnum="16009" count="1" equip="true"/>
+		<Item vnum="17009" count="1" equip="true"/>
+		<Item vnum="72724" count="1"/>
+		<Item vnum="72728" count="1"/>
+		<Item vnum="173017" count="1"/>
+		<Item vnum="173018" count="1"/>
+		<Item vnum="70038" count="1"/>
+		<Item vnum="71085" count="1"/>
+		<Item vnum="173001" count="1"/>
+		<Item vnum="173002" count="1"/>
+		<Item vnum="173003" count="1"/>
+		<Item vnum="173004" count="1"/>
+		<Item vnum="173006" count="1"/>
+		<Item vnum="173066" count="1"/>
+		<Item vnum="180001" count="1"/>
+		<Item vnum="180002" count="1"/>
+		<Skill type="122" value="2"/>
+		<Skill type="123" value="1"/>
+		<Skill type="124" value="1"/>
+		<Skill type="126" value="40"/>
+		<Skill type="128" value="40"/>
+		<Skill type="131" value="10"/>
+		<Skill type="147" value="1"/>
+		<Skill type="137" value="1"/>
+		<Skill type="138" value="1"/>
+		<Skill type="139" value="1"/>
+		<Skill type="140" value="1"/>
+		<Affect type="MOVE_SPEED" value="30" time="1892160000"/>
+	</Type>
+</Beginner-Manager>

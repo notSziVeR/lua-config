@@ -1,0 +1,1904 @@
+section
+	npc	20015 -- Deokbae
+	item	170902	10 -- Mineral Shard
+	reward	177100	1 -- Diamond
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177001	200 -- Copper Ore
+	item	170902	5 -- Mineral Shard
+	reward	177101	1 -- Copper
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177002	200 -- 
+	item	170902	5 -- Mineral Shard
+	reward	177102	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177003	200 -- 
+	item	170902	5 -- Mineral Shard
+	reward	177103	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177004	200 -- 
+	item	170902	5 -- Mineral Shard
+	reward	177104	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177005	200 -- 
+	item	170902	5 -- Mineral Shard
+	reward	177105	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177006	200 -- 
+	item	170902	5 -- Mineral Shard
+	reward	177106	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177007	200 -- 
+	item	170902	5 -- Mineral Shard
+	reward	177107	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177008	200 -- 
+	item	170902	5 -- Mineral Shard
+	reward	177108	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177009	200 -- 
+	item	170902	5 -- Mineral Shard
+	reward	177109	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177010	200 -- 
+	item	170902	5 -- Mineral Shard
+	reward	177110	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177011	200 -- 
+	item	170902	5 -- Mineral Shard
+	reward	177111	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177012	200 -- 
+	item	170902	5 -- Mineral Shard
+	reward	177112	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177013	200 -- 
+	item	170902	5 -- Mineral Shard
+	reward	177113	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177014	200 -- 
+	item	170902	5 -- Mineral Shard
+	reward	177114	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177101	2 -- Copper
+	item	170902	10 -- Mineral Shard
+	reward	177201	1 -- Copper (II)
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177102	200 -- 
+	item	170902	10 -- Mineral Shard
+	reward	177202	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177103	200 -- 
+	item	170902	10 -- Mineral Shard
+	reward	177203	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177104	200 -- 
+	item	170902	10 -- Mineral Shard
+	reward	177204	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177105	200 -- 
+	item	170902	10 -- Mineral Shard
+	reward	177205	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177106	200 -- 
+	item	170902	10 -- Mineral Shard
+	reward	177206	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177107	200 -- 
+	item	170902	10 -- Mineral Shard
+	reward	177207	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177108	200 -- 
+	item	170902	10 -- Mineral Shard
+	reward	177208	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177109	200 -- 
+	item	170902	10 -- Mineral Shard
+	reward	177209	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177110	200 -- 
+	item	170902	10 -- Mineral Shard
+	reward	177210	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177111	200 -- 
+	item	170902	10 -- Mineral Shard
+	reward	177211	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177112	200 -- 
+	item	170902	10 -- Mineral Shard
+	reward	177212	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177113	200 -- 
+	item	170902	10 -- Mineral Shard
+	reward	177213	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177114	200 -- 
+	item	170902	10 -- Mineral Shard
+	reward	177214	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177201	2 -- Copper (II)
+	item	170902	20 -- Mineral Shard
+	reward	177301	1 -- Copper (III)
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177202	200 -- 
+	item	170902	20 -- Mineral Shard
+	reward	177302	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177203	200 -- 
+	item	170902	20 -- Mineral Shard
+	reward	177303	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177204	200 -- 
+	item	170902	20 -- Mineral Shard
+	reward	177304	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177205	200 -- 
+	item	170902	20 -- Mineral Shard
+	reward	177305	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177206	200 -- 
+	item	170902	20 -- Mineral Shard
+	reward	177306	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177207	200 -- 
+	item	170902	20 -- Mineral Shard
+	reward	177307	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177208	200 -- 
+	item	170902	20 -- Mineral Shard
+	reward	177308	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177209	200 -- 
+	item	170902	20 -- Mineral Shard
+	reward	177309	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177210	200 -- 
+	item	170902	20 -- Mineral Shard
+	reward	177310	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177211	200 -- 
+	item	170902	20 -- Mineral Shard
+	reward	177311	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177212	200 -- 
+	item	170902	20 -- Mineral Shard
+	reward	177312	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177213	200 -- 
+	item	170902	20 -- Mineral Shard
+	reward	177313	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20015 -- Deokbae
+	item	177214	200 -- 
+	item	170902	20 -- Mineral Shard
+	reward	177314	1 -- 
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20504 -- Sklep Gaya
+	item	170205	5 -- Kryszta� Szmaragdu
+	item	170206	5 -- Kryszta� Szafiru
+	reward	39064	1 -- Rozszerzenie Sklepu Gaya
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20011 -- Uriel
+	item	170701	10 -- Pier�cie� Do�wiadczenia (30 min.)
+	reward	170702	1 -- Pier�cie� Do�wiadczenia (60 min.)
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20011 -- Uriel
+	item	170703	10 -- R�kawica Z�odzieja (30 min.)
+	reward	170704	1 -- R�kawica Z�odzieja (60 min.)
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20011 -- Uriel
+	item	170602	5 -- Zaczarowanie Pasa
+	reward	170601	1 -- Wzmocnienie Pasa
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	27992	2 -- Bia�a Per�a
+	item	27993	2 -- Niebieska Per�a
+	item	27994	2 -- Krwawa Per�a
+	reward	27995	1 -- T�czowa Per�a
+	gold	0
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	180	1 -- Zatruty miecz+0
+	reward	49106	1 -- Kontrakt Broni
+	gold	0
+	category	ETC
+	percent	10
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	2170	1 -- Stalowy �uk Kruka+0
+	reward	49106	1 -- Kontrakt Broni
+	gold	0
+	category	ETC
+	percent	10
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	3160	1 -- Miecz �alu+0
+	reward	49106	1 -- Kontrakt Broni
+	gold	0
+	category	ETC
+	percent	10
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	1130	1 -- Skrzyd�a Demona Chakr.+0
+	reward	49106	1 -- Kontrakt Broni
+	gold	0
+	category	ETC
+	percent	10
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	5120	1 -- Bambusowy Dzwon+0
+	reward	49106	1 -- Kontrakt Broni
+	gold	0
+	category	ETC
+	percent	10
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	49106	1 -- Kontrakt Broni
+	item	27992	5 -- Bia�a Per�a
+	item	27993	5 -- Niebieska Per�a
+	item	27994	5 -- Krwawa Per�a
+	reward	56002	1 -- Zw�j Ognia
+	gold	0
+	category	SOULS_SCROLLS
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	49106	1 -- Kontrakt Broni
+	item	27992	5 -- Bia�a Per�a
+	item	27993	5 -- Niebieska Per�a
+	item	27994	5 -- Krwawa Per�a
+	reward	56003	1 -- Zw�j Lodu
+	gold	0
+	category	SOULS_SCROLLS
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	49106	1 -- Kontrakt Broni
+	item	27992	5 -- Bia�a Per�a
+	item	27993	5 -- Niebieska Per�a
+	item	27994	5 -- Krwawa Per�a
+	reward	56004	1 -- Zw�j B�yskawicy
+	gold	0
+	category	SOULS_SCROLLS
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	49106	1 -- Kontrakt Broni
+	item	27992	5 -- Bia�a Per�a
+	item	27993	5 -- Niebieska Per�a
+	item	27994	5 -- Krwawa Per�a
+	reward	56005	1 -- Zw�j Wiatru
+	gold	0
+	category	SOULS_SCROLLS
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	49106	1 -- Kontrakt Broni
+	item	27992	5 -- Bia�a Per�a
+	item	27993	5 -- Niebieska Per�a
+	item	27994	5 -- Krwawa Per�a
+	reward	56006	1 -- Zw�j Ziemi
+	gold	0
+	category	SOULS_SCROLLS
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	49106	1 -- Kontrakt Broni
+	item	27992	5 -- Bia�a Per�a
+	item	27993	5 -- Niebieska Per�a
+	item	27994	5 -- Krwawa Per�a
+	reward	56007	1 -- Zw�j Mroku
+	gold	0
+	category	SOULS_SCROLLS
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	27992	10 -- Bia�a Per�a
+	item	27993	10 -- Niebieska Per�a
+	item	27994	10 -- Krwawa Per�a
+	item	50513	20 -- Kamie� Duchowy
+	item	71094	10 -- Rada Pustelnika
+	reward	56008	1 -- Zw�j Kl�twy
+	gold	0
+	category	SOULS_SCROLLS
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	27993	5 -- Niebieska Per�a
+	item	27994	5 -- Krwawa Per�a
+	item	71001	25 -- Zw�j Egzorcyzmu
+	item	71094	25 -- Rada Pustelnika
+	item	70102	50 -- Fasolka Zen
+	reward	56009	1 -- Zw�j Zmiany
+	gold	0
+	category	SOULS_SCROLLS
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18010	1 -- Pas Sk�rzany+0
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	10
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18040	1 -- Pas Kr�la+0
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	10
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18011	1 -- Pas Sk�rzany+1
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	20
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18041	1 -- Pas Kr�la+1
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	20
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18012	1 -- Pas Sk�rzany+2
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	30
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18042	1 -- Pas Kr�la+2
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	30
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18013	1 -- Pas Sk�rzany+3
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	40
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18043	1 -- Pas Kr�la+3
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	40
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18014	1 -- Pas Sk�rzany+4
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	50
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18044	1 -- Pas Kr�la+4
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	50
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18015	1 -- Pas Sk�rzany+5
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	60
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18045	1 -- Pas Kr�la+5
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	60
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18016	1 -- Pas Sk�rzany+6
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	70
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18046	1 -- Pas Kr�la+6
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	70
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18018	1 -- Pas Sk�rzany+8
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	90
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18048	1 -- Pas Kr�la+8
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	90
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18019	1 -- Pas Sk�rzany+9
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18049	1 -- Pas Kr�la+9
+	gold	0
+	reward	49104	1 -- Sprz�czka Pasa
+	category	BELTPVM
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18030	1 -- Pas M�do�ci+0
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	10
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18020	1 -- Pas Przepychu+0
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	10
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18031	1 -- Pas M�do�ci+1
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	20
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18021	1 -- Pas Przepychu+1
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	20
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18032	1 -- Pas M�do�ci+2
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	30
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18022	1 -- Pas Przepychu+2
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	30
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18033	1 -- Pas M�do�ci+3
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	40
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18023	1 -- Pas Przepychu+3
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	40
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18034	1 -- Pas M�do�ci+4
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	50
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18024	1 -- Pas Przepychu+4
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	50
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18035	1 -- Pas M�do�ci+5
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	60
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18025	1 -- Pas Przepychu+5
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	60
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18036	1 -- Pas M�do�ci+6
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	70
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18026	1 -- Pas Przepychu+6
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	70
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18038	1 -- Pas M�do�ci+8
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	90
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18028	1 -- Pas Przepychu+8
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	90
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18039	1 -- Pas M�do�ci+9
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	18029	1 -- Pas Przepychu+9
+	gold	0
+	reward	49105	1 -- Rzemyk Pasa
+	category	BELTPVM
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	49104	10 -- Sprz�czka Pasa
+	item	49105	5 -- Rzemyk Pasa
+	item	49103	3 -- Dusza W�adcy
+	gold	0
+	reward	18080	1 -- Pas Dusz+0
+	category	BELTPVM
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20016 -- Kowal
+	item	49104	10 -- Sprz�czka Pasa
+	item	49105	5 -- Rzemyk Pasa
+	item	49103	3 -- Dusza W�adcy
+	gold	0
+	reward	18050	1 -- Pas Mroku+0
+	category	BELTPVM
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	11299	1 -- Zbroja Z Czarnej Stali+9
+	gold	10000000
+	reward	12010	1 -- Zbroja Z Nieb. Stali+0
+	category	ARMORPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	11499	1 -- Ubranie Czarn. Wiatru+9
+	gold	10000000
+	reward	12020	1 -- Ubranie Nieb. Smoka+0
+	category	ARMORPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	11899	1 -- Czarna Szata+9
+	gold	10000000
+	reward	12040	1 -- Szata Smoka+0
+	category	ARMORPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	11699	1 -- Zbr. P�yt. Czar. Magii+9
+	gold	10000000
+	reward	12030	1 -- Zbroja P�ytowa Aury+0
+	category	ARMORPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	12019	1 -- Zbroja Z Nieb. Stali+9
+	gold	50000000
+	reward	21210	1 -- Zbroja Smoka Mroku+0
+	category	ARMORPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	12029	1 -- xXx
+	gold	50000000
+	reward	21230	1 -- xXx
+	category	ARMORPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	12039	1 -- xXx
+	gold	50000000
+	reward	21250	1 -- xXx
+	category	ARMORPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	12049	1 -- xXx
+	gold	50000000
+	reward	21270	1 -- xXx
+	category	ARMORPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	11299	1 -- Zbroja Z Czarnej Stali+9
+	gold	25000000
+	reward	20000	1 -- Pancerz Diabel. Rogu+0
+	category	ARMORPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	11499	1 -- Ubranie Czarn. Wiatru+9
+	gold	25000000
+	reward	20250	1 -- Szata Smoczego Je�d�ca+0
+	category	ARMORPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	11699	1 -- Zbr. P�yt. Czar. Magii+9
+	gold	25000000
+	reward	20500	1 -- Pancerz Ko�ciop�ytowy+0
+	category	ARMORPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	11899	1 -- Czarna Szata+9
+	gold	25000000
+	reward	20750	1 -- Z�ote Ubranie+0
+	category	ARMORPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	20009	1 -- Pancerz Diabel. Rogu+9
+	gold	50000000
+	reward	12050	1 -- Cyjanitowa Zbroja+0
+	category	ARMORPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	20259	1 -- Szata Smoczego Je�d�ca+9
+	gold	50000000
+	reward	12060	1 -- Cyjanitowe Ubranie+0
+	category	ARMORPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	20509	1 -- Pancerz Ko�ciop�ytowy+9
+	gold	50000000
+	reward	12070	1 -- Cyjanitowa P�yta+0
+	category	ARMORPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	20759	1 -- Z�ote Ubranie+9
+	gold	50000000
+	reward	12080	1 -- Cyjanitowe Szaty+0
+	category	ARMORPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	149	1 -- Miecz Bojowy+9
+	gold	10000000
+	reward	270	1 -- Miecz Trytona+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	3139	1 -- Partyzana+9
+	gold	10000000
+	reward	3170	1 -- Zab�jca ��t. Smoka+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	1109	1 -- Smoczy N�+9
+	gold	10000000
+	reward	4040	1 -- Bezduszny N�+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	2149	1 -- Olbrz. �uk ��t. Smoka+9
+	gold	10000000
+	reward	2160	1 -- Olbrz. �uk Diab�a+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	7149	1 -- Wachlarz Zbawienia+9
+	gold	10000000
+	reward	7190	1 -- Wachlarz Demona+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	5109	1 -- Dzwon Nieba I Ziemi+9
+	gold	10000000
+	reward	5330	1 -- Dzwon Szcz�ki Smoka+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	159	1 -- Miecz Szponu Ducha+9
+	gold	10000000
+	reward	280	1 -- �wi�ty Miecz+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	70031	5 -- Broszura Szermierki
+	item	279	1 -- Miecz Trytona+9
+	gold	25000000
+	reward	460	1 -- Runiczny Miecz+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	70031	5 -- Broszura Szermierki
+	item	289	1 -- �wi�ty Miecz+9
+	gold	25000000
+	reward	470	1 -- Klinga Smoczego K�a+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	70031	5 -- Broszura Szermierki
+	item	3179	1 -- Zab�jca ��t. Smoka+9
+	gold	25000000
+	reward	3190	1 -- Ostrze S�o�ca+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	70031	5 -- Broszura Szermierki
+	item	2169	1 -- Olbrz. �uk Diab�a+9
+	gold	25000000
+	reward	2370	1 -- �uk Feniksa+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	70031	5 -- Broszura Szermierki
+	item	4049	1 -- Bezduszny N�+9
+	gold	25000000
+	reward	1340	1 -- Kolec Pi�ciu Element�w+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	70031	5 -- Broszura Szermierki
+	item	5339	1 -- Dzwon Szcz�ki Smoka+9
+	gold	25000000
+	reward	5340	1 -- Dzwon Smoczego Ducha+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	70031	5 -- Broszura Szermierki
+	item	7199	1 -- Wachlarz Demona+9
+	gold	25000000
+	reward	7370	1 -- Wachlarz Le��c. Smoka+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30600	3 -- Wz�r Kroju
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	469	1 -- Runiczny Miecz+9
+	gold	50000000
+	reward	500	1 -- Cyjanitowy Miecz+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30600	3 -- Wz�r Kroju
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	479	1 -- Klinga Smoczego K�a+9
+	gold	50000000
+	reward	500	1 -- Cyjanitowy Miecz+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30600	3 -- Wz�r Kroju
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	1349	1 -- Kolec Pi�ciu Element�w+9
+	gold	50000000
+	reward	1500	1 -- Cyjanitowy Sztylet+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30600	3 -- Wz�r Kroju
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	2379	1 -- �uk Feniksa+9
+	gold	50000000
+	reward	2500	1 -- Cyjanitowy �uk+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30600	3 -- Wz�r Kroju
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	3199	1 -- Ostrze S�o�ca+9
+	gold	50000000
+	reward	3500	1 -- Cyjanitowe Ostrze+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30600	3 -- Wz�r Kroju
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	5349	1 -- Dzwon Smoczego Ducha+9
+	gold	50000000
+	reward	5500	1 -- Cyjanitowy Dzwon+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30600	3 -- Wz�r Kroju
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	7379	1 -- Wachlarz Le��c. Smoka+9
+	gold	50000000
+	reward	7500	1 -- Cyjanitowy Wachlarz+0
+	category	WEAPONPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30600	3 -- Wz�r Kroju
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	14229	1 -- Opaska Kryszta�u Duszy+9
+	gold	50000000
+	reward	14570	1 -- Bransoleta z Turmalinu+0
+	category	BRACELETPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	14209	1 -- Bransol. Z Niebia�.�ez+9
+	gold	25000000
+	reward	14520	1 -- Granatowa Bransoleta+0
+	category	BRACELETPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30600	3 -- Wz�r Kroju
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	14529	1 -- Granatowa Bransoleta+9
+	gold	50000000
+	reward	14580	1 -- Cyjanitowa Bransoleta+9
+	category	BRACELETPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30600	3 -- Wz�r Kroju
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	16229	1 -- Naszyjnik Krysz. Duszy+9
+	gold	50000000
+	reward	16570	1 -- Naszyjnik z Turmalinu+0
+	category	NECKLACEPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	16209	1 -- Naszyj. Z Niebia�.�ez+9
+	gold	50000000
+	reward	16520	1 -- Granatowy Naszyjnik+0
+	category	NECKLACEPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30600	3 -- Wz�r Kroju
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	16529	1 -- Granatowy Naszyjnik+9
+	gold	25000000
+	reward	16580	1 -- Cyjanitowy Naszyjnik+0
+	category	NECKLACEPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30600	3 -- Wz�r Kroju
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	17229	1 -- Kolczyki Krysz. Duszy+9
+	gold	50000000
+	reward	17570	1 -- Turmalinowe Kolczyki+0
+	category	EARRINGSPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	71123	5 -- Smocza �uska
+	item	71129	5 -- Smoczy Szpon
+	item	17209	1 -- Kolczyki Z Niebia�.�ez+9
+	gold	25000000
+	reward	17520	1 -- Granatowe Kolczyki+0
+	category	EARRINGSPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30600	3 -- Wz�r Kroju
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	17529	1 -- Granatowe Kolczyki+9
+	gold	50000000
+	reward	17580	1 -- Cyjanitowe Kolczyki+0
+	category	EARRINGSPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	12269	1 -- xXx
+	gold	50000000
+	reward	12690	1 -- xXx
+	category	HELMETPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	12399	1 -- xXx
+	gold	50000000
+	reward	12700	1 -- xXx
+	category	HELMETPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	12539	1 -- xXx
+	gold	50000000
+	reward	12710	1 -- xXx
+	category	HELMETPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	12679	1 -- xXx
+	gold	50000000
+	reward	12720	1 -- xXx
+	category	HELMETPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	12289	1 -- xXx
+	gold	25000000
+	reward	12730	1 -- xXx
+	category	HELMETPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	12409	1 -- xXx
+	gold	25000000
+	reward	12740	1 -- xXx
+	category	HELMETPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	12549	1 -- xXx
+	gold	25000000
+	reward	12750	1 -- xXx
+	category	HELMETPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	12689	1 -- xXx
+	gold	25000000
+	reward	12760	1 -- xXx
+	category	HELMETPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	30524	3 -- Kamie� P�omienia
+	item	30525	3 -- Kamie� Lodowe. P�omienia
+	item	13149	1 -- Tarcza Tytan�w+9
+	gold	50000000
+	reward	13160	1 -- xXx
+	category	SHIELDSPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30612	5 -- Stabilne Sznury
+	item	13069	1 -- Sokola Tarcza+9
+	item	13089	1 -- Tarcza Tygrysa+9
+	item	13109	1 -- Lwia Tarcza+9
+	item	13129	1 -- Tarcza Smoka+9
+	gold	50000000
+	reward	13180	1 -- Cyjanitowa Tarcza
+	category	SHIELDSPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30612	5 -- Stabilne Sznury
+	item	13089	1 -- Tarcza Tygrysa+9
+	item	13109	1 -- Lwia Tarcza+9
+	item	13129	1 -- Tarcza Smoka+9
+	item	13069	1 -- Sokola Tarcza+9
+	gold	50000000
+	reward	13180	1 -- Cyjanitowa Tarcza
+	category	SHIELDSPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30612	5 -- Stabilne Sznury
+	item	13109	1 -- Lwia Tarcza+9
+	item	13129	1 -- Tarcza Smoka+9
+	item	13069	1 -- Sokola Tarcza+9
+	item	13089	1 -- Tarcza Tygrysa+9
+	gold	50000000
+	reward	13180	1 -- Cyjanitowa Tarcza
+	category	SHIELDSPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	30612	5 -- Stabilne Sznury
+	item	13129	1 -- Tarcza Smoka+9
+	item	13069	1 -- Sokola Tarcza+9
+	item	13089	1 -- Tarcza Tygrysa+9
+	item	13109	1 -- Lwia Tarcza+9
+	gold	50000000
+	reward	13180	1 -- Cyjanitowa Tarcza
+	category	SHIELDSPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	70031	5 -- Broszura Szermierki
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	15379	1 -- Buty Euforii+9
+	item	15419	1 -- Buty Qilina+9
+	gold	50000000
+	reward	15450	1 -- Buty Cyjanitowe+0
+	category	SHOESPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	70031	5 -- Broszura Szermierki
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	15419	1 -- Buty Qilina+9
+	item	15379	1 -- Buty Euforii+9
+	gold	50000000
+	reward	15450	1 -- Buty Cyjanitowe+0
+	category	SHOESPVP
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	70031	5 -- Broszura Szermierki
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	15439	1 -- Buty Zimorodka+9
+	item	15399	1 -- Kozaki Glorii+9
+	gold	50000000
+	reward	15440	1 -- Ogniste Buty+0
+	category	SHOESPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	20091 -- Seon-Pyeong
+	item	70031	5 -- Broszura Szermierki
+	item	30601	5 -- Plan Zbroi
+	item	30612	5 -- Stabilne Sznury
+	item	15399	1 -- Kozaki Glorii+9
+	item	15439	1 -- Buty Zimorodka+9
+	gold	50000000
+	reward	15440	1 -- Ogniste Buty+0
+	category	SHOESPVM
+	percent	100
+	copy_bonus	1
+end -- section
+
+section
+	npc	60003 -- Theowahdan
+	item	80019	15 -- Delikatne Sukno
+	gold	200000
+	reward	85001	1 -- Szarfa W�adcy (Prosta)
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	60003 -- Theowahdan
+	item	80019	15 -- Delikatne Sukno
+	gold	200000
+	reward	85005	1 -- Szarfa Mistrza (Prosta)
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	60003 -- Theowahdan
+	item	80019	15 -- Delikatne Sukno
+	gold	200000
+	reward	85011	1 -- Szarfa Ksi�cia (Prosta)
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section
+
+section
+	npc	60003 -- Theowahdan
+	item	80019	15 -- Delikatne Sukno
+	gold	200000
+	reward	85015	1 -- Szarfa Kr�la (Prosta)
+	category	ETC
+	percent	100
+	copy_bonus	0
+end -- section

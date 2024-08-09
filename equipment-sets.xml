@@ -1,0 +1,7 @@
+<EquipmentSets>
+	<EquipmentSet id = "9539" name="Shadow - Set Bonus">
+		<Apply type="ATTBONUS_ANIMAL" value="5" count="1" />
+		<Apply type="APPLY_ATTBONUS_STONE" value="5" count="2" />
+		<Apply type="APPLY_ATTBONUS_BOSS" value="5" count="3" />
+	</EquipmentSet>
+</EquipmentSets>

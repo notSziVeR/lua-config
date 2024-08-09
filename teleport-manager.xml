@@ -1,0 +1,32 @@
+<Teleport-Manager>
+	<Category id="1" name="Cities" admin="0">
+		<Teleport id="1" min_lv="1" max_lv="115" x="2588" y="83050"/>
+		<Teleport id="2" min_lv="1" max_lv="115" x="4693" y="9642"/>
+		<Teleport id="3" min_lv="1" max_lv="115" x="3630" y="8753"/>
+		<Teleport id="4" min_lv="1" max_lv="115" x="9695" y="2784"/>
+		<Teleport id="5" min_lv="1" max_lv="115" x="8731" y="2426"/>
+	</Category>
+	<Category id="2" name="Beginner Maps" admin="0">
+		<Teleport id="5" min_lv="1" max_lv="115" x="13568" y="7458"/>
+		<Teleport id="6" min_lv="1" max_lv="115" x="5536" y="1441"/>
+		<Teleport id="7" min_lv="1" max_lv="115" x="2968" y="5471"/>
+		<Teleport id="8" min_lv="1" max_lv="115" x="4348" y="2145"/>
+		<Teleport id="9" min_lv="1" max_lv="115" x="6072" y="6846"/>
+		<Teleport id="10" min_lv="1" max_lv="115" x="2901" y="57"/>
+		<Teleport id="11" min_lv="1" max_lv="115" x="11196" y="700"/>
+		<Teleport id="12" min_lv="1" max_lv="115" x="600" y="4966"/>
+		<Teleport id="13" min_lv="1" max_lv="115" x="7040" y="4625"/>
+	</Category>
+	<Category id="3" name="Advanced Maps" admin="0">
+		<Teleport id="14" min_lv="75" max_lv="115" x="100" y="12078"/>
+		<Teleport id="15" min_lv="75" max_lv="115" x="2417" y="12753"/>
+		<Teleport id="16" min_lv="90" max_lv="115" x="11264" y="15104"/>
+		<Teleport id="17" min_lv="100" max_lv="115" x="7680" y="14080"/>
+	</Category>
+	<Category id="4" name="Other" admin="0">
+		<Teleport id="18" min_lv="1" max_lv="115" x="30043" y="49563"/>
+	</Category>
+	<Category id="5" name="GM Maps" admin="1">
+		<Teleport id="19" min_lv="1" max_lv="115" x="2588" y="83050"/>
+	</Category>
+</Teleport-Manager>

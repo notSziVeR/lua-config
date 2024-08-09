@@ -1,0 +1,37 @@
+<Attendance-Manager>
+	<Month month="4" reward_vnum="71224" reward_count="1">
+		<Day reward_vnum="9600" reward_count="1"/>
+		<Day reward_vnum="10060" reward_count="1"/>
+		<Day reward_vnum="10290" reward_count="1"/>
+		<Day reward_vnum="10520" reward_count="1"/>
+		<Day reward_vnum="10750" reward_count="1"/>
+		<Day reward_vnum="10760" reward_count="1"/>
+		<Day reward_vnum="52002" reward_count="1"/>
+		<Day reward_vnum="71027" reward_count="1"/>
+		<Day reward_vnum="71028" reward_count="1"/>
+		<Day reward_vnum="85001" reward_count="1"/>
+		<Day reward_vnum="100300" reward_count="1"/>
+		<Day reward_vnum="100002" reward_count="1"/>
+		<Day reward_vnum="50927" reward_count="1"/>
+		<Day reward_vnum="54702" reward_count="1"/>
+		<Day reward_vnum="70501" reward_count="1"/>
+		<Day reward_vnum="70505" reward_count="1"/>
+		<Day reward_vnum="55003" reward_count="1"/>
+		<Day reward_vnum="53024" reward_count="1"/>
+		<Day reward_vnum="50821" reward_count="1"/>
+		<Day reward_vnum="50822" reward_count="1"/>
+		<Day reward_vnum="50823" reward_count="1"/>
+		<Day reward_vnum="50824" reward_count="1"/>
+		<Day reward_vnum="50825" reward_count="1"/>
+		<Day reward_vnum="50826" reward_count="1"/>
+		<Day reward_vnum="39036" reward_count="1"/>
+		<Day reward_vnum="39008" reward_count="1"/>
+		<Day reward_vnum="39006" reward_count="1"/>
+		<Day reward_vnum="52034" reward_count="1"/>
+		<Day reward_vnum="53007" reward_count="1"/>
+		<Day reward_vnum="71026" reward_count="1"/>
+	</Month>
+	<Month month="5" reward_vnum="85004" reward_count="1">
+		<Day reward_vnum="189" reward_count="1"/>
+	</Month>
+</Attendance-Manager>

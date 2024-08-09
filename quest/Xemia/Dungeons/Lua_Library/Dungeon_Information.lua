@@ -1,0 +1,11 @@
+-- DWORD iKey, DWORD dwMapIndex, STRING sName, STRING sTitleName, DWORD dwRaceFlag, BYTE bPartyCount, WORD wRequiredLevelMin, WORD wRequiredLevelMax, DWORD dwPassItem, INT iDelay, DWORD dwVictimVnum
+register_dungeon_record(0, 250, "ORC_MAZE", "DUNGEON_ORC_MAZE", 0, 0, 30, 60, 176001, 60*30, 693)
+register_dungeon_record(1, 66, "DEMON_TOWER", "DUNGEON_DEMON_TOWER", 0, 0, 40, 115, 0, 0, 1093)
+register_dungeon_record(2, 74, "SPIDER_QUEENS_NEST", "DUNGEON_SPIDER_QUEENS_NEST", 0, 0, 60, 80, 176002, 0*60, 2092)
+register_dungeon_record(3, 216, "DEVILS_CATACOMB", "DUNGEON_DEVILS_CATACOMB", 0, 0, 75, 105, 176003, 60*60, 2598)
+register_dungeon_record(4, 208, "DRAGON_LAIR", "DUNGEON_DRAGON_LAIR", 0, 0, 75, 105, 176004, 60*60, 2493)
+register_dungeon_record(5, 351, "RED_DRAGON_FORTRESS", "DUNGEON_RED_DRAGON_FORTRESS", 0, 0, 95, 115, 176005, 60*90, 6091)
+register_dungeon_record(6, 352, "NEMERES_WATCHTOWER", "DUNGEON_NEMERES_WATCHTOWER", 0, 0, 95, 115, 176006, 60*90, 6191)
+register_dungeon_record(7, 353, "EREBOS", "DUNGEON_EREBOS", 0, 0, 100, 115, 176007, 60*180, 6192)
+register_dungeon_record(8, 320, "MELEYS_HORT", "DUNGEON_MELEYS_HORT", 0, 0, 110, 115, 176008, 60*180, 6118)
+register_dungeon_record(9, 321, "SHIP_DEFENSE", "DUNGEON_SHIP_DEFENSE", 0, 0, 110, 115, 176009, 60*180, 3960)

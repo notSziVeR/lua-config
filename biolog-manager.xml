@@ -1,0 +1,13 @@
+<Biolog-Manager>
+	<Mission id="0" level="30" item="30006" count="10" cooldown="30" chance="100">
+		<Rewards>
+			<Item vnum="27105" count="5"/>
+			<Affects selectable="1">
+				<Affect type="DOUBLE_DROP_ITEM" value="5" time="100"/>
+			</Affects>
+		</Rewards>
+		<Monsters>
+			<Monster vnum="636" chance="100"/>
+		</Monsters>
+	</Mission>
+</Biolog-Manager>
